@@ -1,57 +1,58 @@
 # Certified Ethical Hacker(CEH) Version 11
 
-![](file:///C:/Users/Micha/Notes/CEH/img/00.00.jpg)
+![](img/00.00.jpg)
 
 ## Module 01 - Introduction to Ethical Hacking
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+
+![](img/01.00.jpg)
 
 ### Module Objectives
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- Understanding Elements of Information Security
+- Understanding Information Security Attacks / Information Warfare
+- Overview of Cyber Kill Chain Methodology, TTPs, and IoCs
+- Overview of Hacking Concepts, Types, and Phases
+- Understanding Ethical Hacking Concepts and Scope
+- Overview of Information Security Concepts
+- Overview of Information Security Acts and Laws
 
 ### Information Security Overview
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- Information System
+    - the protection or safeguarding of information and...
+    - systems that use / store / transmit  infor
+    - from unauthorized access, disclosure, alternation, and destruction
+- Information
+    - critical asset that organizations must secure
 
 ### Elements of Information Security
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.01.01.jpg)
+    - Confidentiality
+        - assurance that the information is accessible only to authorized
+        - may occur due to improper data handling or a hacking attempt
+    - Integrity
+        - trustworthiness of data or resources in the prevention of improper and unauthorized changes—the assurance that information is sufficiently accurate for its purpose
+    - Availability
+        - assurance that the systems responsible for delivering, storing, and processing info are accessible when required by authorized users
+        - Measures to maintain data availability include...
+            - disk arrays for redundant systems and clustered machines, 
+            - AV software to combat malware, and ... 
+            - distributed denial-of-service (DDoS) prevention systems
+    - Authenticity
+        - characteristic of communication, documents, or any data 
+            - that ensures the quality of being genuine or uncorrupted
+        - user is genuine 
+        - Controls include ...
+            - biometrics, 
+            - smart cards, 
+            - digital certificates
+                - ensure the authenticity of data, transactions, communications, and documents.
+    - Non-Repudiation
+        - guarantee that the sender of a message **cannot later deny** having sent msg
+        - recipient **cannot deny having received** the msg
+        - controls include...
+            - digital signatures
 
 ### Motives, Goals, and Objectives of Information Security Attacks
-- 
+- ![](img/01.02.01.jpg)
     - 
         - 
     - 
