@@ -189,21 +189,14 @@
             - ip addresses / virus signatures
 
 ### Hacking Concepts
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.09.01.jpg)
 
 ### What is Hacking?
-- 
-    - 
-        - 
+- ![](img/01.10.01.jpg)
+    - exploiting system vulnerabilities ... compromising security controls... to gain unauthorized/unintended access to...
+        1. modify system/app to achieve a goal outside of creator's intention
+        1.  redistribute intellectual property
+        1.  cause business loss
     - 
         - 
 - 
