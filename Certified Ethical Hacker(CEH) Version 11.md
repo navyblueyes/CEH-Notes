@@ -368,16 +368,30 @@
             - identify technologies (hardware, software, networking)
             - identify application security mechanisms ()
     - ![](img/01.29.04.jpg)
-        - 
-    - 
-        - 
-    - 
-        - 
-    - 
-        - 
+        - further analysis on 
+            - system boundaries
+            - access control points
+            - trust boundaries
+    - ![](img/01.29.05.jpg)
+        - identify threat IRT control scenario / context
+        - development and test teams together to id potential threats
+    - ![](img/01.29.06.jpg)
+        - formally identifying vulnerabilities
+        - identifying steps/resources to correct vulnerabilites
 
 ### Incident Management
-- 
+- ![](img/01.30.01.jpg)
+    - goal -- restore normal service operations
+    - Consists of...
+        - ![](img/01.30.02.jpg)
+            - monitoring
+            - detections
+            - analysis
+                - artifact
+                - vulnerability
+            - training
+    - ![](img/01.30.03.jpg)
+        - 
     - 
         - 
     - 
@@ -389,19 +403,36 @@
         - 
 
 ### Incident Handling and Response
-- 
-    - 
+- ![](img/01.31.01.jpg)
+    - Overview
+        -  process of taking organized and careful steps when reacting to a security incident or cyberattack
+        -  set of procedures, actions, and measures taken against an unexpected event occurrence 
+- Process
+    - ![](img/01.31.02.jpg)
+        - audit of resources/assets
+        - reviewing purpose of security
+        - define the rules, policies, and procedures that drive the IH&R process
+    - ![](img/01.31.03.jpg)
         - 
-    - 
+    - ![](img/01.31.04.jpg)
         - 
-- 
-    - 
+    - ![](img/01.31.05.jpg)
+        - 
+    - ![](img/01.31.06.jpg)
+        - 
+    - ![](img/01.31.07.jpg)
+        - 
+    - ![](img/01.31.08.jpg)
+        - 
+    - ![](img/01.31.09.jpg)
+        - 
+    - ![](img/01.31.10.jpg)
         - 
     - 
         - 
 
 ### Role of AI and ML in Cyber Security
-- 
+- ![](img/01.32.01.jpg)
     - 
         - 
     - 
