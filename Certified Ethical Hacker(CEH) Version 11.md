@@ -433,18 +433,21 @@
 
 ### Role of AI and ML in Cyber Security
 - ![](img/01.32.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - ![](img/01.32.02.jpg)
+        - ![](img/01.32.03.jpg)
+- Supervised Learning 
+    - input a set of labeled training data to attempt to learn the differences between the given labels.
+        - Classification is for completely divided classes. 
+            - to define the test sample to identify its class
+        - Regression is used when data classes are not separated
+            - ideal if data stream is continuous
+- Unsupervised Learning
+    -  input unlabeled training data to attempt to deduce all the categories without guidance
+        - Clustering divides the data into clusters based on their similarities
+        - Dimensionality reduction is the process of reducing the dimensions (attributes) of data.
 
 ### How Do AI and ML Prevent Cyber Attacks?
-- 
+- ![](img/01.33.01.jpg)
     - 
         - 
     - 
