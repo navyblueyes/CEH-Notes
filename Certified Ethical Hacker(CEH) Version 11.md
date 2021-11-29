@@ -170,28 +170,23 @@
 - ![](img/01.06.05.jpg)
 
 ### Indicators of Compromise (IoCs)
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.07.01.jpg)
+    - IoC are artifacts of potential intrusion / malicious activity
+        - good source of information... but NOT INTELLIGENCE
 
 ### Categories of Indicators of Compromise
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.08.01.jpg)
+    - email 
+        - sending malicious data
+    - network
+        - CaC, malware delivery, reconnaisance of ports/OS
+    - host-based
+        - analysis of infected system
+            - registry keys, dlls, changed file hashes
+    - behavior
+        - specific behavior analogous to malicious behavior
+            - PS scripts running / remote command executions
+            - ip addresses / virus signatures
 
 ### Hacking Concepts
 - 
