@@ -353,18 +353,21 @@
         - focues on TOOLS and RESOURCES
 
 ### Threat Modeling
+- ![](img/01.29.01.jpg)
     - Basic definition
         - analyzing all aspects of a system affecting it's security
-- ![](img/01.29.01.jpg)
-    - 
-        - 
 - Steps
     - ![](img/01.29.02.jpg)
         - establish goals / constraints of a system's CIA
-        - 
-    - 
-        - 
-    - 
+        - need to ascertain effort for subsequent steps
+    - ![](img/01.29.03.jpg)
+        - identifying components, data flow, trust boundaries
+        - admin should explain how system works, data flows, permissions
+            - identify roles/permission
+            - identify key scenarios (uploading, downloading)
+            - identify technologies (hardware, software, networking)
+            - identify application security mechanisms ()
+    - ![](img/01.29.04.jpg)
         - 
     - 
         - 
