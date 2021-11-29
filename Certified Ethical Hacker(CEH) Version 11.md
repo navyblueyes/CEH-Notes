@@ -197,44 +197,26 @@
         1. modify system/app to achieve a goal outside of creator's intention
         1.  redistribute intellectual property
         1.  cause business loss
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Who is a Hacker?
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.11.01.jpg)
+    - someone with the ability to create/explore software/hardware
+    - someone with a hobby to see how to compromise computers/networks
+    - someone who wants financial gain
 
 ### Hacker Classes
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.12.01.jpg)
 
 ### Hacking Phases
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.13.01.jpg)
+    - Overview
+        - gather info about a target
+        - target is known only on a broad scale
+        - target can be clients / employees / networks /systems
+    - Passive Recon
+        - WITHOUT interacting with system
+    - Active Recon
+        - WITH interacting with target
 - 
     - 
         - 
