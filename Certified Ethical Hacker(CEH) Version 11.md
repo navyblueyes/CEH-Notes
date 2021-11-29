@@ -208,6 +208,9 @@
 - ![](img/01.12.01.jpg)
 
 ### Hacking Phases
+- ![](img/01.16.01.jpg)
+
+### Hacking Phase: Reconnaissance
 - ![](img/01.13.01.jpg)
     - Overview
         - gather info about a target
@@ -217,38 +220,24 @@
         - WITHOUT interacting with system
     - Active Recon
         - WITH interacting with target
-- 
-    - 
-        - 
-    - 
-        - 
 
-### Hacking Phase: Reconnaissance
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Hacking Phase: Scanning
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.14.01.jpg)
+    - Pre-attack
+        - first scan of network
+            - to obtain specific information
+    - Port Scanner
+        - using port scanner, network mapper, ping tools, vulscanner
+    - Extract Information
+        - using the previoud methods to ascertain...
+            - live machines
+            - OS details
+            - device types
+            - system uptime
 
 ### Hacking Phase: Gaining Access
-- 
+- ![](img/01.15.01.jpg)
     - 
         - 
     - 
