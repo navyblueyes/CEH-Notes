@@ -53,87 +53,121 @@
 
 ### Motives, Goals, and Objectives of Information Security Attacks
 - ![](img/01.02.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
+    - Motive
+        - ![](img/01.02.02.jpg)
     - 
         - 
     - 
         - 
 
 ### Classification of Attacks
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- Classification
+    - ![](img/01.02.03.jpg)
+        - passive - incercept/monitor network traffic / data flow
+            - NOT TAMPER with data
+            - like footprinting... sniffing... network traffic analysis
+        - active attack
+            - tampering with traffic
+            - can be detected
+            - ![](img/01.02.04.jpg)
+        - close in attacks
+            - only conducted IN CLOSE PROXIMITY
+            - to gather / modify information
+            - ![](img/01.03.01.jpg)
+        - insider attack
+            - performed by trusted personnel
+            - violating rules to intentionally cause a threate
+            - misuse organization's assets to affect CIA
+            - examples
+                - ![](img/01.03.02.jpg)
+        - distribution attacks
+            - tamper hardware / software ... AT SOURCE / WHEN IN TRANSIT
+            - leverage bakcdoors to gain unauthorized access to access
+            - ![](img/01.03.03.jpg)
+
 
 ### Information Warfare
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.04.01.jpg)
+    - Definition
+        - use of information / communication technologies for competitive advantages over an opponent
+            - 
+    - Categories of Information Warfare
+        - C2 warfare
+            - refers to the impact an attacker possesses over a compromised system
+        - Intelligence-based warfare
+            - sensor based technology to corrupt technological systems
+        - Electronic Warfare
+            - using RF/crypto techniques to degrade communication
+        - Psychological warfare
+            - to demoralize one's adversary
+        - Hacker warfare
+            - shutdown / data errors / info theft / services theft
+        - Economic warfare
+            - affecting the economy by blocking the flow of information
+        - Cyberwarfare
+            - utilizing Information Systems against individuals / groups
+    - Offensive vs Defensive IW
+        - ![](img/01.04.02.jpg)
+            - 
 
 ### Cyber Kill Chain Concepts
-- 
-    - 
+- ![](img/01.05.01.jpg)
+- ![](img/01.05.02.jpg)
+    - component of intelligence-driven defense 
+        - to help in ID'ing steps an adversaries conduct
+        - to enhance intrusion detection/response
+- ![](img/01.05.03.jpg)
+    - Reconnaissance
+        - collect as much info BEFORE an actual attack
+            - across different network levels
+                - to gain info such as network blocks, specific IP addresses, and employee details
+        - ![](img/01.05.04.jpg)
+    - Weaponization
+        - analyzes data collection to identify vulnerabilites / techniques 
+            - that can exploit / gain unauthorized access to target organization
+        - ![](img/01.05.05.jpg)
+            - 
+    - Delivery
+        - creating a weapon / transmit to victim
+            - key stage that measures effectiveness of defensive strategies
+        - ![](img/01.05.06.jpg)
+    - Exploitation
+        - triggering adversary's code to exploit a vulnerability
+            - ![](img/01.05.07.jpg)
+    - Installation
+        - installs more software to maintain access to target network
+            - ![](img/01.05.08.jpg)
+    - Command and Control
+        - establishing two-way communication 
+            - ![](img/01.05.09.jpg)
+    - Actions on Objectives
         - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Cyber Kill Chain Methodology
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
+            - 
         - 
 
 ### Tactics, Techniques, and Procedures (TTPs)
-- 
-    - 
+- ![](img/01.05.10.jpg)
+    - tactics
+        - the way a hacker operates during different phases
+        - used to gather info / privilege escalation / deploy measures for persistent access
         - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - techniques
+        - tool methodology
+        - include
+            - initial exploitation,   
+            - setting up and maintaining command and control channels,
+            - accessing the target infrastructure,
+            - covering the tracks of data exfiltration
+    - procedures
+        - sequence of action to execute different steps of an attack
 
 ### Adversary Behavioral Identification
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.06.01.jpg)
+    - identification of common methods to launch attacks
+- ![](img/01.06.02.jpg)
+- ![](img/01.06.03.jpg)
+- ![](img/01.06.04.jpg)
+- ![](img/01.06.05.jpg)
 
 ### Indicators of Compromise (IoCs)
 - 
