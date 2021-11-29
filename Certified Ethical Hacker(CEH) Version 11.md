@@ -276,66 +276,42 @@
 
 ### What is Ethical Hacking?
 - ![](img/01.20.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - ![](img/01.20.02.jpg)
 
 ### Why Ethical Hacking is Necessary
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.21.01.jpg)
+    - ![](img/01.21.02.jpg)
+        - ![](img/01.21.03.jpg)
+        - ![](img/01.21.04.jpg)
 
 ### Scope and Limitations of Ethical Hacking
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.22.01.jpg)
+    - Scope
+        - risks / remediation of Ethical Hacking
+    - Limitations
+
 
 ### Skills of an Ethical Hacker
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.23.01.jpg)
+    - ![](img/01.23.02.jpg)
 
 ### Information Security Controls
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.24.01.jpg)
+    - Goal
+        - assurance of Integrity, Availability, Confidentiality, Authenticity of information
+        - in any information usage, processing, storage, and transmission
+    - Hard Strategies
+        - better authentication
+        - id'ing network vulnerabilities
+        - id'ing and planning around resource requirements
+    - Soft Strategies
+        - write/review policies
+        - review IA controls
+        - certification / accreditation
+        - manpower training
 
 ### Information Assurance (IA)
-- 
+- ![](img/01.25.01.jpg)
     - 
         - 
     - 
