@@ -295,7 +295,7 @@
 - ![](img/01.23.01.jpg)
     - ![](img/01.23.02.jpg)
 
-### Information Security Controls
+### Information Assurance (IA)
 - ![](img/01.24.01.jpg)
     - Goal
         - assurance of Integrity, Availability, Confidentiality, Authenticity of information
@@ -310,73 +310,64 @@
         - certification / accreditation
         - manpower training
 
-### Information Assurance (IA)
-- ![](img/01.25.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
 ### Defense-in-Depth
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.25.01.jpg)
+    - unlike in the military
+        - a leak in one can cause a failure of the system
 
 ### What is Risk?
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.26.01.jpg)
+    - Definition of Risk
+        -  degree of **uncertainty or expectation of potential damage** to the system or its resources
+        - **probability of the occurrence** of a threat or an event that will damage,
+        -  **possibility of a threat** acting upon an internal or external vulnerability
+        -  **likelihood that an event** will occur
+            - keywords
+                - probability
+                - likelihood
+                - possibility
+    - ATV = Asset-impact ... Threat ... Vulnerability
 
 ### Risk Management
-- 
-    - 
+- ![](img/01.27.01.jpg)
+    - ![](img/01.27.02.jpg)
         - 
     - 
         - 
-- 
-    - 
-        - 
-    - 
-        - 
+- Four Key Steps
+    - ![](img/01.27.03.jpg)
+    - ![](img/01.27.04.jpg)
+    - ![](img/01.27.05.jpg)
+        - prioritizing treatment based on assessment of `liklihood` and `severity`
+    - ![](img/01.27.06.jpg)
 
 ### Cyber Threat Intelligence
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.28.01.jpg)
+    - ![](img/01.28.02.jpg)
+        - focuses on trends and impact of attack / reaction
+    - ![](img/01.28.03.jpg)
+        - focuses on HOW to perform an attack
+    - ![](img/01.28.04.jpg)
+        - focuses on WHO and THEIR PAST / CAPAIBILITIES
+    - ![](img/01.28.05.jpg)
+        - focues on TOOLS and RESOURCES
 
 ### Threat Modeling
-- 
+    - Basic definition
+        - analyzing all aspects of a system affecting it's security
+- ![](img/01.29.01.jpg)
+    - 
+        - 
+- Steps
+    - ![](img/01.29.02.jpg)
+        - establish goals / constraints of a system's CIA
+        - 
+    - 
+        - 
     - 
         - 
     - 
         - 
-- 
     - 
         - 
     - 
