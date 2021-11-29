@@ -238,54 +238,44 @@
 
 ### Hacking Phase: Gaining Access
 - ![](img/01.15.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - where the real hacking occurs
+        - point where the attack obtains access to OS/Apps on Computer/Network
+    - NOT A REQUIREMENT
+        - can be skipped via `consuming all outgoing communication links`
+    - examples
+        - password cracking
+        - stack-based buffer overflows
+        - session hacking
+    - Two types of attacks
+        - packet flooding
+            - flooding availibility of essential services
+        - smurf attack
+            - covering your tracks by causing others to attack on your behalf
+    - factors affecting hacker's ability to gain access
+        - architecture/configuration of target
+        - skill of agent
+        - initial level of access 
 
 ### Hacking Phase: Maintaining Access
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.17.01.jpg)
+    - retain their ownership
+    - ensuring exclusive access via backdoors, rootkits, trojans
+    - maintain access via manipulating data / apps / configurations
 
 ### Hacking Phase: Clearing Tracks
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.18.01.jpg)
+    - clearing tracks to hide malicious acts
+    - with the intention to remain unnoticed / avoid prosecution
+        - steganography to hide data in image/sound files
+        - tunneling to carry one protocol over another to hide information extraction
+    - by overwriting logs in server / system / app
+        - tools like PsTools, NetCat to erase footprints from system logs
 
 ### Ethical Hacking Concepts
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.19.01.jpg)
 
 ### What is Ethical Hacking?
-- 
+- ![](img/01.20.01.jpg)
     - 
         - 
     - 
