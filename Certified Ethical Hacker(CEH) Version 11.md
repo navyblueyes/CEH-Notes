@@ -1146,8 +1146,8 @@
 
 ### Traceroute
 - ![](img/02.45.01.jpg)
-    - 
-        - 
+    - ![](img/02.44.02.jpg)
+        - ![](img/02.45.02.jpg)
     - 
         - 
 - 
@@ -1157,7 +1157,7 @@
         - 
 
 ### Traceroute Analysis
-- 
+- ![](img/02.46.01.jpg)
     - 
         - 
     - 
@@ -1169,7 +1169,7 @@
         - 
 
 ### Traceroute Tools
-- 
+- ![](img/02.47.01.jpg)
     - 
         - 
     - 
@@ -1181,7 +1181,7 @@
         - 
 
 ### Footprinting through Social Engineering
-- 
+- ![](img/02.48.01.jpg)
     - 
         - 
     - 
@@ -1193,7 +1193,7 @@
         - 
 
 ### Collecting Information Using Eavesdropping, Shoulder Surfing, Dumpster Diving, and Impersonation
-- 
+- ![](img/02.49.01.jpg)
     - 
         - 
     - 
@@ -1205,9 +1205,10 @@
         - 
 
 ### Footprinting Tools
-- 
-    - 
-        - 
+- ![](img/02.50.01.jpg)
+    - ![](img/02.50.02.jpg)
+    - ![](img/02.51.01.jpg)
+    - ![](img/02.50.03.jpg)
     - 
         - 
 - 
@@ -1217,26 +1218,8 @@
         - 
 
 ### Footprinting Countermeasures
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Module Summary
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
+    - ![](img/02.51.02.jpg)
+        - ![](img/02.51.03.jpg)
     - 
         - 
 
