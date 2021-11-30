@@ -524,10 +524,13 @@
 
 ### The Federal Information Security Management Act (FISMA)
 - ![](img/01.38.02.jpg)
-    - 
-        - 
-    - 
-        - 
+    - Two standards
+        - mission impact of IS
+        - minimum security requirements of IS
+    - Three guidances
+        - selecting security controls
+        - assessing security controls
+        - implementing security authorization
 - 
     - 
         - 
@@ -535,7 +538,7 @@
         - 
 
 ### General Data Protection Regulation (GDPR)
-- 
+- ![](img/01.40.01.jpg)
     - 
         - 
     - 
@@ -547,7 +550,7 @@
         - 
 
 ### Data Protection Act 2018 (DPA)
-- 
+- ![](img/01.41.01.jpg)
     - 
         - 
     - 
@@ -559,60 +562,23 @@
         - 
 
 ### Cyber Law in Different Countries
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Module Summary
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
+- ![](img/01.42.01.jpg)
+- ![](img/01.42.02.jpg)
+- ![](img/01.42.03.jpg)
 
 ## Module 02 - Footprinting and Reconnaissance
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.00.jpg)
 
 ### Module Objectives
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.01.01.jpg)
+    - ![](img/02.01.02.jpg)
 
 ### Footprinting Concepts
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.02.01.jpg)
+    - Passive
+        - ![](img/02.02.02.jpg)
+    - Active
+        - ![](img/02.02.03.jpg)
 - 
     - 
         - 
