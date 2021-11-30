@@ -650,55 +650,18 @@
         - alter prices, 
         - undermine the market position of a target organization.
 - Business Loss
-    - 
-        - 
 
 ### Footprinting Methodology
+- Basic
+    - procedure for collecting information about a target organization from all available sources
 - Techniques
     - ![](img/02.03.04.jpg)
-        - 
-- 
-    - 
-        - 
-- 
-    - 
-        - 
-- 
-    - 
-        - 
-- 
-    - 
-        - 
-- 
-    - 
-        - 
-
-### What is Footprinting?
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Footprinting through Search Engines
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.04.01.jpg)
 
 ### Footprinting Using Advanced Google Hacking Techniques
-- 
+- ![](img/02.05.01.jpg)
     - 
         - 
     - 
