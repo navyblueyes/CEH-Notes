@@ -120,6 +120,21 @@
         - to help in ID'ing steps an adversaries conduct
         - to enhance intrusion detection/response
 - ![](img/01.05.03.jpg)
+    - Mnemoic
+        - R
+            - Recon
+        - We
+            - Weaponization
+        - Declaring
+            - Delivery
+        - Emergencies
+            - Exploitation
+        - In
+            - Installation
+        - California
+            - Command Control
+        - Again
+            - Action on object
     - Reconnaissance
         - collect as much info BEFORE an actual attack
             - across different network levels
@@ -150,18 +165,18 @@
 
 ### Tactics, Techniques, and Procedures (TTPs)
 - ![](img/01.05.10.jpg)
-    - tactics
+    - tactics --- guidelines
         - the way a hacker operates during different phases
         - used to gather info / privilege escalation / deploy measures for persistent access
         - 
-    - techniques
+    - techniques --- methods
         - tool methodology
         - include
             - initial exploitation,   
             - setting up and maintaining command and control channels,
             - accessing the target infrastructure,
             - covering the tracks of data exfiltration
-    - procedures
+    - procedures --- sequence
         - sequence of action to execute different steps of an attack
 
 ### Adversary Behavioral Identification
@@ -579,11 +594,7 @@
         - ![](img/02.02.02.jpg)
     - Active
         - ![](img/02.02.03.jpg)
-- 
-    - 
-        - 
-    - 
-        - 
+            -social engineering
 
 ### Types of Footprinting
 - 
@@ -598,50 +609,67 @@
         - 
 
 ### Information Obtained in Footprinting
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- Organization Information
+    - ![](img/02.03.01.jpg)
+- Network Information
+    - ![](img/02.03.02.jpg)
+- System Infromation
+    - ![](img/02.03.03.jpg)
 
 ### Objectives of Footprinting
-- 
+- Security Posture Knowledge
     - 
         - 
+- Focus Area Reduction
     - 
         - 
-- 
+- Vulnerability Identification
     - 
         - 
+- Network Mapping
     - 
         - 
 
 ### Footprinting Threats
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
+- Social Engineering
+    -  hackers directly and indirectly collect information through persuasion 
+- System and Network Attacks
+    - gather info related to ...
+        - target organization’s system configuration, 
+        - the operating system running on the machine
+    - use information to find vulnerabilities
+- Information leakage
+    - information can be used to mount attacks
+- Privacy Loss
+    - even escalate the privileges up to admin levels
+        - resulting in the loss of privacy for the organization as a whole and for its individual personnel
+- Corporate Espionage
+    -  to secure sensitive data through footprinting
+    - can use in ...
+        - launch similar products in the market, 
+        - alter prices, 
+        - undermine the market position of a target organization.
+- Business Loss
     - 
         - 
 
 ### Footprinting Methodology
-- 
-    - 
-        - 
-    - 
+- Techniques
+    - ![](img/02.03.04.jpg)
         - 
 - 
     - 
         - 
+- 
+    - 
+        - 
+- 
+    - 
+        - 
+- 
+    - 
+        - 
+- 
     - 
         - 
 
