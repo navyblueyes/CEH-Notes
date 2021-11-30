@@ -681,22 +681,17 @@
 
 ### VoIP and VPN Footprinting through Google Hacking Database
 - ![](img/02.07.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - can be used to 
+        -  footprinting VoIP and VPN networks
+        - extract info such as login portals, VoIP login portals, directories with keys of VPN servers,
+    - ![](img/02.07.02.jpg)
+        - ![](img/02.07.03.jpg)
 
 ### Other Techniques for Footprinting through Search Engines
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.08.01.jpg)
+    - FTP
+        - ![](img/02.08.02.jpg)
+        - ![](img/02.08.03.jpg)
 - 
     - 
         - 
@@ -716,7 +711,7 @@
         - 
 
 ### Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
-- 
+- ![](img/02.08.04.jpg)
     - 
         - 
     - 
