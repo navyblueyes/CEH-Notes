@@ -1064,7 +1064,7 @@
 
 ### Collecting Information from Email Header
 - ![](img/02.38.01.jpg)
-    - 
+    - ![](img/02.38.02.jpg)s
         - 
     - 
         - 
@@ -1075,9 +1075,9 @@
         - 
 
 ### Email Tracking Tools
-- 
-    - 
-        - 
+- ![](img/02.39.01.jpg)
+    - ![](img/02.39.02.jpg)
+    - ![](img/02.39.03.jpg)
     - 
         - 
 - 
@@ -1087,67 +1087,29 @@
         - 
 
 ### Whois Footprinting
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Whois Lookup
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.40.01.jpg)
+    - ![](img/02.40.02.jpg)
+        - ![](img/02.40.03.jpg)
+        - ![](img/02.40.04.jpg)
+    - ![](img/02.40.05.jpg)
+    - ![](img/02.40.06.jpg)
 
 ### Finding IP Geolocation Information
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/02.41.01.jpg)
     - 
         - 
     - 
         - 
 
 ### DNS Footprinting
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Extracting DNS Information
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
+- ![](img/02.42.01.jpg)
+    - ![](img/02.42.02.jpg)
         - 
     - 
         - 
 
 ### Reverse DNS Lookup
-- 
+- ![](img/02.43.01.jpg)
     - 
         - 
     - 
@@ -1159,7 +1121,7 @@
         - 
 
 ### Network Footprinting
-- 
+- ![](img/02.44.01.jpg)
     - 
         - 
     - 
@@ -1183,7 +1145,7 @@
         - 
 
 ### Traceroute
-- 
+- ![](img/02.45.01.jpg)
     - 
         - 
     - 
