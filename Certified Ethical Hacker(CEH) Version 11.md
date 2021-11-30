@@ -692,30 +692,15 @@
     - FTP
         - ![](img/02.08.02.jpg)
         - ![](img/02.08.03.jpg)
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Footprinting through Web Services
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
 - ![](img/02.08.04.jpg)
-    - 
-        - 
-    - 
-        - 
+    - Search
+        - ![](img/02.09.01.jpg)
+    - sublister
+        - ![](img/02.09.02.jpg)
+    - pentest-tools.com
+        - ![](img/02.09.03.jpg)
 - 
     - 
         - 
@@ -723,7 +708,7 @@
         - 
 
 ### Finding the Geographical Location of the Target
-- 
+- ![](img/02.10.01.jpg)s
     - 
         - 
     - 
@@ -735,31 +720,21 @@
         - 
 
 ### People Search on Social Networking Sites
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/02.11.01.jpg)
     - 
         - 
     - 
         - 
 
 ### People Search on People Search Services
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/02.12.01.jpg)
     - 
         - 
     - 
         - 
 
 ### Gathering Information from LinkedIn
-- 
+- ![](img/02.13.01.jpg)
     - 
         - 
     - 
@@ -771,7 +746,7 @@
         - 
 
 ### Harvesting Email Lists
-- 
+- ![](img/02.14.01.jpg)s
     - 
         - 
     - 
@@ -783,7 +758,7 @@
         - 
 
 ### Gathering Information from Financial Services
-- 
+- ![](img/02.15.01.jpg)
     - 
         - 
     - 
@@ -795,7 +770,7 @@
         - 
 
 ### Footprinting through Job Sites
-- 
+- ![](img/02.16.01.jpg)
     - 
         - 
     - 
@@ -807,7 +782,7 @@
         - 
 
 ### Deep and Dark Web Footprinting
-- 
+- ![](img/02.17.01.jpg)
     - 
         - 
     - 
@@ -819,7 +794,7 @@
         - 
 
 ### Determining the Operating System
-- 
+- ![](img/02.18.01.jpg)
     - 
         - 
     - 
@@ -831,7 +806,7 @@
         - 
 
 ### VoIP and VPN Footprinting through SHODAN
-- 
+- ![](img/02.19.01.jpg)
     - 
         - 
     - 
@@ -843,9 +818,14 @@
         - 
 
 ### Competitive Intelligence Gathering
-- 
+- ![](img/02.20.01.jpg)
+    - ![](img/02.20.02.jpg)
+        - 
     - 
         - 
+- Sources of Competitive Intelligence
+    - ![](img/02.20.03.jpg)
+    - 
     - 
         - 
 - 
@@ -855,7 +835,7 @@
         - 
 
 ### Competitive Intelligence - When Did this Company Begin? How Did it Develop?
-- 
+- ![](img/02.21.01.jpg)
     - 
         - 
     - 
@@ -867,20 +847,20 @@
         - 
 
 ### Competitive Intelligence - What Are the Company's Plans?
-- 
+- ![](img/02.22.01.jpg)
+    - ![](img/02.22.02.jpg)
+    - ![](img/02.22.03.jpg)
     - 
         - 
-    - 
-        - 
-- 
-    - 
-        - 
+- ![](img/02.22.04.jpg)
+    - ![](img/02.22.05.jpg)
+    - ![](img/02.22.06.jpg)
     - 
         - 
 
 ### Competitive Intelligence - What Expert Opinions Say About the Company?
-- 
-    - 
+- ![](img/02.23.01.jpg)
+    - ![](img/02.23.02.jpg)
         - 
     - 
         - 
@@ -891,8 +871,8 @@
         - 
 
 ### Other Techniques for Footprinting through Web Services
-- 
-    - 
+- ![](img/02.24.01.jpg)
+    - ![](img/02.24.02.jpg)
         - 
     - 
         - 
@@ -915,7 +895,7 @@
         - 
 
 ### Collecting Information through Social Engineering on Social Networking Sites
-- 
+- ![](img/02.25.01.jpg)
     - 
         - 
     - 
@@ -927,7 +907,7 @@
         - 
 
 ### General Resources for Locating Information from Social Media Sites
-- 
+- ![](img/02.26.01.jpg)
     - 
         - 
     - 
@@ -939,7 +919,7 @@
         - 
 
 ### Conducting Location Search on Social Media Sites
-- 
+- ![](img/02.26.02.jpg)
     - 
         - 
     - 
@@ -951,7 +931,7 @@
         - 
 
 ### Tools for Footprinting through Social Networking Sites
-- 
+- ![](img/02.27.01.jpg)
     - 
         - 
     - 
@@ -963,9 +943,9 @@
         - 
 
 ### Website Footprinting
-- 
-    - 
-        - 
+- ![](img/02.28.01.jpg)
+    - ![](img/02.28.02.jpg)
+        - ![](img/02.28.03.jpg)
     - 
         - 
 - 
@@ -975,7 +955,7 @@
         - 
 
 ### Website Footprinting using Web Spiders
-- 
+- ![](img/02.29.01.jpg)
     - 
         - 
     - 
@@ -987,7 +967,7 @@
         - 
 
 ### Mirroring Entire Website
-- 
+- ![](img/02.30.01.jpg)
     - 
         - 
     - 
@@ -999,7 +979,7 @@
         - 
 
 ### Extracting Website Information from https://archive.org
-- 
+- ![](img/02.31.01.jpg)
     - 
         - 
     - 
@@ -1011,7 +991,7 @@
         - 
 
 ### Extracting Website Links
-- 
+- ![](img/02.32.01.jpg)
     - 
         - 
     - 
@@ -1023,7 +1003,7 @@
         - 
 
 ### Gathering Wordlist from the Target Website
-- 
+- ![](img/02.33.01.jpg)
     - 
         - 
     - 
@@ -1035,7 +1015,7 @@
         - 
 
 ### Extracting Metadata of Public Documents
-- 
+- ![](img/02.34.01.jpg)
     - 
         - 
     - 
@@ -1298,6 +1278,7 @@
     - 
         - 
 
+<hr />
 
 ## Module 03 - Scanning Networks
 - 
