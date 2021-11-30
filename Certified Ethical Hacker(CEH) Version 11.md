@@ -448,31 +448,23 @@
 
 ### How Do AI and ML Prevent Cyber Attacks?
 - ![](img/01.33.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - ![](img/01.33.02.jpg)
+    - ![](img/01.33.03.jpg)
+    - ![](img/01.33.04.jpg)
+    - ![](img/01.33.05.jpg)
+    - ![](img/01.33.06.jpg)
+    - ![](img/01.33.07.jpg)
+    - ![](img/01.33.08.jpg)
+    - ![](img/01.33.09.jpg)
+    - ![](img/01.33.10.jpg)
+    - ![](img/01.33.11.jpg)
 
 ### Information Security Laws and Standards
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.34.01.jpg)
 
 ### Payment Card Industry Data Security Standard (PCI DSS)
-- 
-    - 
+- ![](img/01.35.01.jpg)
+    - ![](img/01.34.02.jpg)
         - 
     - 
         - 
@@ -483,7 +475,7 @@
         - 
 
 ### ISO/IEC 27001:2013
-- 
+- ![](img/01.35.02.jpg)
     - 
         - 
     - 
