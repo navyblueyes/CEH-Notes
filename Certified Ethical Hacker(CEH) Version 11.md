@@ -1027,7 +1027,7 @@
         - 
 
 ### Other Techniques for Website Footprinting
-- 
+- ![](img/02.35.01.jpg)
     - 
         - 
     - 
@@ -1039,7 +1039,7 @@
         - 
 
 ### Email Footprinting
-- 
+- ![](img/02.37.01.jpg)
     - 
         - 
     - 
@@ -1051,9 +1051,9 @@
         - 
 
 ### Tracking Email Communications
-- 
-    - 
-        - 
+- ![](img/02.36.01.jpg)
+    - ![](img/02.36.02.jpg)
+    - ![](img/02.36.03.jpg)
     - 
         - 
 - 
@@ -1063,7 +1063,7 @@
         - 
 
 ### Collecting Information from Email Header
-- 
+- ![](img/02.38.01.jpg)
     - 
         - 
     - 
