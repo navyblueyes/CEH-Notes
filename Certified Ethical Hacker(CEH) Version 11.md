@@ -662,42 +662,25 @@
 
 ### Footprinting Using Advanced Google Hacking Techniques
 - ![](img/02.05.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    -  art of creating complex search engine queries
+        - valuable data about a target company from Google search results
 
 ### What can a Hacker do with Google Hacking?
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- Overall
+    -  filter large amounts of search results to obtain information related to computer security
+        -  also locate private, sensitive information about others
+    - ![](img/02.06.01.jpg)
+- ![](img/02.06.02.jpg)
+    - ![](img/02.06.03.jpg)
 
 ### Google Hacking Database
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/02.06.04.jpg)
+    - You can
+        - will find search terms for files containing usernames, vulnerable servers, and even files containing passwords
+        -  rapidly identify all the publicly available exploits and vulnerabilities of the target organization’s IT infrastructure
 
 ### VoIP and VPN Footprinting through Google Hacking Database
-- 
+- ![](img/02.07.01.jpg)
     - 
         - 
     - 
