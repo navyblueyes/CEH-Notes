@@ -2,6 +2,9 @@
 
 ![](img/00.00.jpg)
 
+## Module 00 - Instructor
+- ![](img/00.01.jpg)
+
 ## Module 01 - Introduction to Ethical Hacking
 
 ![](img/01.00.jpg)
@@ -391,16 +394,6 @@
                 - vulnerability
             - training
     - ![](img/01.30.03.jpg)
-        - 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Incident Handling and Response
 - ![](img/01.31.01.jpg)
@@ -465,65 +458,72 @@
 ### Payment Card Industry Data Security Standard (PCI DSS)
 - ![](img/01.35.01.jpg)
     - ![](img/01.34.02.jpg)
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### ISO/IEC 27001:2013
 - ![](img/01.35.02.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - 27001 -- 2013
+        - improving information security management systems within context of an organization
 
 ### Health Insurance Portability and Accountability Act (HIPAA)
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.36.01.jpg)
+    - covers transactions 
+        -  adhere to the content and format requirements of each transaction
+        - health care providers mush have..
+            -  same health care transactions, code sets, and identifiers
+    - privacy rules
+        - safeguards
+        - limits / conditions of disclosure
+    - security rules
+        - ensure the confidentiality, integrity, and security of electronically protected health information.
+    - Employer Identifier Standard
+        - standard national number for transactions
+    - National Provider Identifier (NPI)
+        - unique identification number assigned to covered health care providers
+        - must use the NPIs in the administrative and financial transactions adopted under HIPAA.
+        - 10-position, intelligence-free numeric identifier (10-digit number)
 
 ### Sarbanes Oxley Act (SOX)
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.37.01.jpg)
+    -  Title I: Public Company Accounting Oversight Board (PCAOB):
+        - independent oversight of public accounting firms
+        - tasked with 
+            - registering audit services, 
+            - defining the specific processes and procedures for compliance audits, 
+            - inspecting and policing conduct and quality control
+    -  Title II: Auditor Independence
+        - standards for external auditor independence
+            -  to limit conflicts of interest.
+        - covers
+            - new auditor approval requirements,  
+            - audit partner rotation,
+            - and auditor reporting requirements
+    -  Title III: Corporate Responsibility
+        - mandates that senior executives take 
+            - responsibility for the accuracy and completeness of corporate financial reports
+    -  Title IV: Enhanced Financial Disclosures
+        - enhanced reporting requirements for financial transactions
+            - requires internal controls to ensure the accuracy of financial reports 
+    -  Title V: Analyst Conflicts of Interest
+        - code of conduct for securities analysts
+        - requires that they disclose any knowable conflicts of interest
+    -  Title VI: Commission Resources and Authority
+        - SEC’s authority to censure or bar securities professionals from practice 
+    -  Title VII: Studies and Reports
+        -  requires Comptroller General and SEC to perform various studies and to report their findings.
+    -  Title VIII: Corporate and Criminal Fraud Accountability
+        -  specific criminal penalties for the manipulation, destruction, or alteration of financial records
+    -  Title IX: White-Collar-Crime Penalty Enhancement
+        -  criminal penalties associated with white-collar crimes and conspiracies.
+    -  Title X: Corporate Tax Returns:
+        - Chief Executive Officer should sign the company tax return.
+    -  Title XI: Corporate Fraud Accountability
+        - identifies corporate fraud and records tampering as criminal offenses
 
 ### The Digital Millennium Copyright Act (DMCA)
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/01.38.01.jpg)
 
 ### The Federal Information Security Management Act (FISMA)
-- 
+- ![](img/01.38.02.jpg)
     - 
         - 
     - 
