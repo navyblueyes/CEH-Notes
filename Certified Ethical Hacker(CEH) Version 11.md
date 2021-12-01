@@ -1625,30 +1625,12 @@
 
 ### Port Scanning Countermeasures
 - ![](img/03.30.01.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### OS Discovery (Banner Grabbing/OS Fingerprinting)
 - ![](img/03.31.jpg)
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### OS Discovery/Banner Grabbing
-- 
+- ![](img/03.32.01.jpg)
     - 
         - 
     - 
@@ -1660,8 +1642,8 @@
         - 
 
 ### How to Identify Target System OS
-- 
-    - 
+- ![](img/03.33.01.jpg)
+    - ![](img/03.33.02.jpg)
         - 
     - 
         - 
@@ -1672,7 +1654,7 @@
         - 
 
 ### OS Discovery using Nmap and Unicornscan
-- 
+- ![](img/03.34.01.jpg)
     - 
         - 
     - 
@@ -1684,7 +1666,7 @@
         - 
 
 ### OS Discovery using Nmap Script Engine
-- 
+- ![](img/03.35.01.jpg)
     - 
         - 
     - 
@@ -1696,9 +1678,9 @@
         - 
 
 ### OS Discovery using IPv6 Fingerprinting
-- 
-    - 
-        - 
+- ![](img/03.36.01.jpg)
+    - ![](img/03.36.02.jpg)
+        - ![](img/03.36.03.jpg)
     - 
         - 
 - 
@@ -1708,7 +1690,7 @@
         - 
 
 ### Banner Grabbing Countermeasures
-- 
+- ![](img/03.37.01.jpg)
     - 
         - 
     - 
