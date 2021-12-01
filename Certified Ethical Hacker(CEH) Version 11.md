@@ -1388,10 +1388,8 @@
 
 ### ICMP ECHO Ping Scan
 - ![](img/03.09.01.jpg)
-    - 
-        - 
-    - 
-        - 
+    - ![](img/03.09.02.jpg)
+        - ![](img/03.09.03.jpg)
 - 
     - 
         - 
@@ -1399,11 +1397,9 @@
         - 
 
 ### ICMP ECHO Ping Sweep
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.10.01.JPG)
+    - ![](img/03.10.02.jpg)
+        - ![](img/03.10.03.jpg)
 - 
     - 
         - 
@@ -1411,7 +1407,7 @@
         - 
 
 ### Ping Sweep Tools
-- 
+- ![](img/03.11.01.jpg)
     - 
         - 
     - 
@@ -1423,7 +1419,7 @@
         - 
 
 ### Ping Sweep Countermeasures
-- 
+- ![](img/03.12.01.jpg)
     - 
         - 
     - 
@@ -1435,7 +1431,17 @@
         - 
 
 ### Other Host Discovery Techniques
-- 
+- ![](img/03.13.01.jpg)
+    - timestamP Ping
+        - ![](img/03.13.02.jpg)
+            - ![](img/03.13.03.jpg)
+    - address Mask Ping
+        - ![](img/03.13.04.jpg)
+    - **S**YN Ping
+        - ![](img/03.13.05.jpg)
+        - ![](img/03.13.06.jpg)
+    - 
+        - 
     - 
         - 
     - 
@@ -2022,6 +2028,7 @@
     - 
         - 
 
+<hr />
 
 ## Module 04 - Enumeration
 - 
