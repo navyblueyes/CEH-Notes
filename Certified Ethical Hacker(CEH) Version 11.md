@@ -1267,8 +1267,44 @@
 ### Footprinting Countermeasures
     - ![](img/02.51.02.jpg)
         - ![](img/02.51.03.jpg)
+
+### REVIEW......
+- ![](img/02.99.01.jpg)
+    - Sherlock
+        - social media
+    - BeRoot
+        - misconfigurations once Root is obtained 
+    - OpUtils
+        - SNMP utility for sending modified SNMP 
+    - Sublister
+        - enumerates subdomains
+-   ![](img/02.99.02.jpg)
+- ![](img/02.99.03.jpg)
+    - intelius
+        - people search 
+    - mention
+        - online reputation (blog, somed)
+- ![](img/02.99.05.jpg)
+- ![](img/02.99.06.jpg)
+- ![](img/02.99.07.jpg)
     - 
         - 
+- ![](img/02.99.08.jpg)
+    - 
+        - 
+    - 
+        - 
+- ![](img/02.99.09.jpg)
+- ![](img/02.99.10.jpg)
+        - 
+    - 
+        - 
+- ![](img/02.99.11.jpg)
+    - 
+        - 
+    - 
+        - 
+- 
 
 <hr />
 
