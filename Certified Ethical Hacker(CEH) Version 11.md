@@ -1364,30 +1364,15 @@
 ### Scanning Tools for Mobile
 - ![](img/03.05.01.jpg)
     - ![](img/03.05.02.jpg)
-    - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - ![](img/03.05.03.jpg)
+    - ![](img/03.05.04.jpg)
 
 ### Host Discovery
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.06.01.jpg)
 
 ### Host Discovery Techniques
-- 
-    - 
+- ![](img/03.07.01.jpg)
+    - ![](img/03.07.02.jpg)
         - 
     - 
         - 
