@@ -1788,17 +1788,10 @@
 ### IP Spoofing Detection Techniques
 - ![](img/03.46.01.jpg)
 - ![](img/03.46.02.jpg)
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.46.03.jpg)
 
 ### IP Spoofing Countermeasures
-- 
+- ![](img/03.47.01.jpg)
     - 
         - 
     - 
@@ -1810,8 +1803,8 @@
         - 
 
 ### Creating Custom Packets
-- 
-    - 
+- ![](img/03.48.01.jpg)
+    - ![](img/03.48.02.jpg)
         - 
     - 
         - 
@@ -1822,7 +1815,7 @@
         - 
 
 ### Randomizing Host Order and Sending Bad Checksums
-- 
+- ![](img/03.49.01.jpg)
     - 
         - 
     - 
@@ -1834,7 +1827,7 @@
         - 
 
 ### Proxy Servers
-- 
+- ![](img/03.50.01.jpg)
     - 
         - 
     - 
@@ -1846,7 +1839,7 @@
         - 
 
 ### Proxy Chaining
-- 
+- ![](img/03.51.01.jpg)
     - 
         - 
     - 
@@ -1858,7 +1851,7 @@
         - 
 
 ### Proxy Tools
-- 
+- ![](img/03.52.01.jpg)
     - 
         - 
     - 
@@ -1870,7 +1863,7 @@
         - 
 
 ### Proxy Tools for Mobile
-- 
+- ![](img/03.53.01.jpg)
     - 
         - 
     - 
@@ -1882,8 +1875,8 @@
         - 
 
 ### Anonymizers
-- 
-    - 
+- ![](img/03.54.01.jpg)
+    - ![](img/03.54.02.jpg)
         - 
     - 
         - 
