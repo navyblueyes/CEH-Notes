@@ -1373,21 +1373,13 @@
 ### Host Discovery Techniques
 - ![](img/03.07.01.jpg)
     - ![](img/03.07.02.jpg)
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### ARP Ping Scan and UDP Ping Scan
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.08.01.jpg)
+    - ![](img/03.08.04.jpg)
+        - ![](img/03.08.02.jpg)
+    - ![](img/03.08.03.jpg)
+        - ![](img/03.08.05.jpg)
 - 
     - 
         - 
@@ -1395,7 +1387,7 @@
         - 
 
 ### ICMP ECHO Ping Scan
-- 
+- ![](img/03.09.01.jpg)
     - 
         - 
     - 
