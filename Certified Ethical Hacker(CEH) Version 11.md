@@ -1575,11 +1575,12 @@
         - 
 
 ### SSDP and List Scanning
-- 
-    - 
+- ![](img/03.25.04.jpg)
+    - ![](img/03.26.01.jpg)
         - 
-    - 
-        - 
+    - ![](img/03.26.02.jpg)
+        - ![](img/03.26.03.jpg)
+        - ![](img/03.26.04.jpg)
 - 
     - 
         - 
@@ -1587,7 +1588,7 @@
         - 
 
 ### IPv6 Scanning
-- 
+- ![](img/03.27.01.jpg)
     - 
         - 
     - 
@@ -1599,8 +1600,8 @@
         - 
 
 ### Service Version Discovery
-- 
-    - 
+- ![](img/03.28.01.jpg)
+    - ![](img/03.28.02.jpg)
         - 
     - 
         - 
@@ -1611,19 +1612,19 @@
         - 
 
 ### Nmap Scan Time Reduction Techniques
-- 
+- ![](img/03.29.01.jpg)
+    - ![](img/03.29.02.jpg)
+    - ![](img/03.29.03.jpg)
+    - ![](img/03.29.04.jpg)
+    - ![](img/03.29.05.jpg)
+    - ![](img/03.29.06.jpg)
+    - ![](img/03.29.07.jpg)
+    - ![](img/03.29.08.jpg)
     - 
-        - 
     - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Port Scanning Countermeasures
-- 
+- ![](img/03.30.01.jpg)
     - 
         - 
     - 
@@ -1635,7 +1636,7 @@
         - 
 
 ### OS Discovery (Banner Grabbing/OS Fingerprinting)
-- 
+- ![](img/03.31.jpg)
     - 
         - 
     - 
