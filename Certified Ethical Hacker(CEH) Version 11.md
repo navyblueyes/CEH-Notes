@@ -98,7 +98,7 @@
         - C2 warfare
             - refers to the impact an attacker possesses over a compromised system
         - Intelligence-based warfare
-            - sensor based technology to corrupt technological systems
+            - **sensor based** technology to corrupt technological systems
         - Electronic Warfare
             - using RF/crypto techniques to degrade communication
         - Psychological warfare
@@ -581,6 +581,47 @@
 - ![](img/01.42.02.jpg)
 - ![](img/01.42.03.jpg)
 
+
+
+### REVIEW......
+- ![](img/01.99.01.jpg)
+    - Threat Modeling
+        - analyzing security by capturing info that affects it
+    - Incident Management
+        - processes to ID/resolve security incidents TO RESTORE
+    - Information Assurance (IA)
+        - CIAA of IS during usage of info
+    - Defense-In-Depth
+        - more difficult for an enemy to defeat
+- ![](img/01.99.02.jpg)
+- ![](img/01.99.03.jpg)
+    - Supervised Learning (labeled training) (think CpR)
+        - Classification is for completely **divided classes**. 
+            - to define the test sample to **identify its class**
+        - Regression is used when data **classes are not separated**
+            - ideal if data stream is **continuous**
+    - Unsupervised Learning (unlabeled)
+        - Clustering divides the data into clusters **based on their similarities**
+        - Dimensionality reduction is the process of **reducing the dimensions** (attributes) of data.
+- ![](img/01.99.04.jpg)
+    - Active - tamper with data
+    - Distribution - tamper with hardware
+- ![](img/01.99.05.jpg)
+- ![](img/01.99.06.jpg)
+    - Strategic threat intelligence
+        - high-level info
+    - Operational threat intelligence
+        - contextual info about an event
+        - focuses on methodologies
+    - Technical threat intelligence
+        - response to threat
+    - Tactical threat intelligence
+        - protecting a specific resource
+- 
+- 
+- 
+- 
+
 ## Module 02 - Footprinting and Reconnaissance
 - ![](img/02.00.jpg)
 
@@ -653,7 +694,7 @@
 
 ### Footprinting Methodology
 - Basic
-    - procedure for collecting information about a target organization from all available sources
+    jihanledo21504  Jihanvai521- procedure for collecting information about a target organization from all available sources
 - Techniques
     - ![](img/02.03.04.jpg)
 
@@ -664,6 +705,12 @@
 - ![](img/02.05.01.jpg)
     -  art of creating complex search engine queries
         - valuable data about a target company from Google search results
+    - `title:`
+    - `site:`
+    - `index.of`
+    - 
+    - 
+    - 
 
 ### What can a Hacker do with Google Hacking?
 - Overall
@@ -708,7 +755,7 @@
         - 
 
 ### Finding the Geographical Location of the Target
-- ![](img/02.10.01.jpg)s
+- ![](img/02.10.01.jpg)
     - 
         - 
     - 
@@ -1226,33 +1273,12 @@
 <hr />
 
 ## Module 03 - Scanning Networks
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Module Objectives
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.00.jpg)
 
 ### Network Scanning Concepts
-- 
-    - 
-        - 
+- ![](img/03.01.01.jpg)
+    - ![](img/03.01.02.jpg)
+    - ![](img/03.01.03.jpg)
     - 
         - 
 - 
