@@ -1702,7 +1702,7 @@
         - 
 
 ### Scanning Beyond IDS and Firewall
-- 
+- ![](img/03.38.01.jpg)
     - 
         - 
     - 
@@ -1714,7 +1714,7 @@
         - 
 
 ### IDS/Firewall Evasion Techniques
-- 
+- ![](img/03.39.01.jpg)
     - 
         - 
     - 
@@ -1726,9 +1726,9 @@
         - 
 
 ### Packet Fragmentation
-- 
-    - 
-        - 
+- ![](img/03.40.01.jpg)
+    - ![](img/03.41.01.jpg)
+        - ![](img/03.41.03.jpg)
     - 
         - 
 - 
@@ -1738,8 +1738,8 @@
         - 
 
 ### Source Routing
-- 
-    - 
+- ![](img/03.42.01.jpg)
+    - ![](img/03.42.02.jpg)
         - 
     - 
         - 
@@ -1750,7 +1750,7 @@
         - 
 
 ### Source Port Manipulation
-- 
+- ![](img/03.43.01.jpg)
     - 
         - 
     - 
@@ -1762,7 +1762,7 @@
         - 
 
 ### IP Address Decoy
-- 
+- ![](img/03.44.01.jpg)
     - 
         - 
     - 
@@ -1774,7 +1774,7 @@
         - 
 
 ### IP Address Spoofing
-- 
+- ![](img/03.45.01.jpg)
     - 
         - 
     - 
@@ -1786,8 +1786,8 @@
         - 
 
 ### IP Spoofing Detection Techniques
-- 
-    - 
+- ![](img/03.46.01.jpg)
+- ![](img/03.46.02.jpg)
         - 
     - 
         - 
