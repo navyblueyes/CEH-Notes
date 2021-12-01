@@ -1432,42 +1432,36 @@
 
 ### Other Host Discovery Techniques
 - ![](img/03.13.01.jpg)
-    - timestamP Ping
+    - timestam**P** Ping `-PP`
         - ![](img/03.13.02.jpg)
             - ![](img/03.13.03.jpg)
-    - address Mask Ping
+    - address **M**ask Ping `-PM`
         - ![](img/03.13.04.jpg)
-    - **S**YN Ping
+    - **S**YN Ping `-PS`
         - ![](img/03.13.05.jpg)
         - ![](img/03.13.06.jpg)
-    - 
-        - 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+    - **A**CK Ping `-PA`
+        - ![](img/03.13.07.jpg)
+        - ![](img/03.13.08.jpg)
+    - pr**O**tocol Ping `-PO`
 
 ### Port and Service Discovery
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.14.01.jpg)
+    - ![](img/03.14.02.jpg)
+    - ![](img/03.14.03.jpg)
+    - ![](img/03.14.04.jpg)
+    - ![](img/03.14.05.jpg)
+    - ![](img/03.14.06.jpg)
+    - ![](img/03.14.07.jpg)
+    - ![](img/03.14.08.jpg)
+    - ![](img/03.14.09.jpg)
+    - ![](img/03.14.10.jpg)
+    - ![](img/03.14.11.jpg)
 
 ### Port Scanning Techniques
-- 
-    - 
-        - 
+- ![](img/03.15.01.jpg)
+    - ![](img/03.15.02.jpg)
+        - ![](img/03.15.03.jpg)
     - 
         - 
 - 
@@ -1477,19 +1471,19 @@
         - 
 
 ### TCP Connect/Full Open Scan
-- 
-    - 
+- ![](img/03.16.01.jpg)
+    - ![](img/03.16.02.jpg)
         - 
     - 
         - 
-- 
-    - 
+- **T**CP Connect **S**can
+    - ![](img/03.16.03.jpg)
         - 
     - 
         - 
 
 ### Stealth Scan (Half-open Scan)
-- 
+- ![](img/03.17.01.jpg)
     - 
         - 
     - 
@@ -1501,8 +1495,8 @@
         - 
 
 ### Inverse TCP Flag Scan
-- 
-    - 
+- ![](img/03.18.01.jpg)
+    - ![](img/03.18.02.jpg)
         - 
     - 
         - 
@@ -1513,9 +1507,9 @@
         - 
 
 ### Xmas Scan
-- 
-    - 
-        - 
+- ![](img/03.19.01.jpg)
+    - ![](img/03.19.02.jpg)
+        - ![](img/03.19.03.jpg)
     - 
         - 
 - 
@@ -1525,7 +1519,7 @@
         - 
 
 ### TCP Maimon scan
-- 
+- ![](img/03.20.01.jpg)
     - 
         - 
     - 
@@ -1537,40 +1531,31 @@
         - 
 
 ### ACK Flag Probe Scan
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
+- ![](img/03.21.01.jpg)
+    - ![](img/03.21.02.jpg)
+    - ![](img/03.21.03.jpg)
+    - ![](img/03.21.04.jpg)
+        - ![](img/03.21.05.jpg)
+- ![](img/03.21.06.jpg)
+    - ![](img/03.21.07.jpg)
         - 
     - 
         - 
 
 ### IDLE/IPID Header Scan
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.22.01.jpg)
+    - ![](img/03.22.02.jpg)
+- ![](img/03.22.03.jpg)
+    - ![](img/03.22.04.jpg)
+    - ![](img/03.22.05.jpg)
+        - ![](img/03.22.06.jpg)
+        - ![](img/03.22.07.jpg)
+    - ![](img/03.22.08.jpg)
 
 ### UDP Scanning
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.23.01.jpg)
+    - ![](img/03.23.02.jpg)
+        - ![](img/03.23.03.jpg)
 
 ### SCTP INIT Scanning
 - 
