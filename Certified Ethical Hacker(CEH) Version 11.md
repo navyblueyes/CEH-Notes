@@ -1286,9 +1286,9 @@
         - online reputation (blog, somed)
 - ![](img/02.99.05.jpg)
 - ![](img/02.99.06.jpg)
-- ![](img/02.99.07.jpg)
     - 
         - 
+- ![](img/02.99.07.jpg)
 - ![](img/02.99.08.jpg)
     - 
         - 
@@ -1304,7 +1304,7 @@
         - 
     - 
         - 
-- 
+- ![](img/02.99.12.jpg)
 
 <hr />
 
@@ -1336,35 +1336,25 @@
         - 
 
 ### TCP Communication Flags
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
+- ![](img/03.02.01.jpg)
+    - ![](img/03.02.02.jpg)
         - 
     - 
         - 
 
 ### TCP/IP Communication
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.03.01.jpg)
+    - ![](img/03.03.02.jpg)
+    - ![](img/03.03.03.jpg)
 
 ### Scanning Tools
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.04.01.jpg)
+- ![](img/03.04.02.jpg)
+    - ![](img/03.04.03.jpg)
+        - ![](img/03.04.05.jpg)
+- ![](img/03.04.04.jpg)
+    - netscantools
+        -  troubleshoot, monitor, discover, and detect devices on your network.
 - 
     - 
         - 
@@ -1372,9 +1362,9 @@
         - 
 
 ### Scanning Tools for Mobile
-- 
+- ![](img/03.05.01.jpg)
+    - ![](img/03.05.02.jpg)
     - 
-        - 
     - 
         - 
 - 
