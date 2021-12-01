@@ -1558,21 +1558,14 @@
         - ![](img/03.23.03.jpg)
 
 ### SCTP INIT Scanning
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/03.23.04.jpg)
+    - ![](img/03.24.01.jpg)
+        - ![](img/03.24.02.jpg)
 
-### SCTP COOKIE ECHO Scanning
-- 
-    - 
-        - 
+### SCTP COOKIE ECHO Scanning `-sZ`
+- ![](img/03.25.01.jpg)
+    - ![](img/03.25.02.jpg)
+        - ![](img/03.25.03.jpg)
     - 
         - 
 - 
