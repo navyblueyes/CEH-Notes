@@ -16982,25 +16982,15 @@
 
 
 ### Data Encryption Standard (DES)
--![](img/20.04.01.jpg)
-    -
+- ![](img/20.04.01.jpg)
+    - ![](img/20.04.02.jpg)
         -
-    -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+    - 
+        - 
 
 
 ### Triple Data Encryption Standard (3DES)
--
+- ![](img/20.05.01.jpg)s
     -
         -
     -
