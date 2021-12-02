@@ -1877,7 +1877,7 @@
 ### Anonymizers
 - ![](img/03.54.01.jpg)
     - ![](img/03.54.02.jpg)
-        - 
+    - ![](img/03.54.03.jpg)
     - 
         - 
 - 
@@ -1887,7 +1887,7 @@
         - 
 
 ### Censorship Circumvention Tools
-- 
+- ![](img/03.55.01.jpg)
     - 
         - 
     - 
@@ -1899,7 +1899,7 @@
         - 
 
 ### Anonymizers
-- 
+- ![](img/03.56.01.jpg)
     - 
         - 
     - 
@@ -1911,31 +1911,14 @@
         - 
 
 ### Anonymizers for Mobile
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Draw Network Diagrams
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/03.57.01.jpg)
     - 
         - 
     - 
         - 
 
 ### Drawing Network Diagrams
-- 
+- ![](img/03.58.01.jpg)
     - 
         - 
     - 
@@ -1947,7 +1930,7 @@
         - 
 
 ### Network Discovery and Mapping Tools
-- 
+- ![](img/03.59.01.jpg)
     - 
         - 
     - 
@@ -1959,42 +1942,17 @@
         - 
 
 ### Network Discovery Tools for Mobile
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/03.60.01.jpg)
     - 
         - 
     - 
         - 
 
-### Module Summary
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 <hr />
 
 ## Module 04 - Enumeration
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/04.00.00.jpg)
 
 ### Module Objectives
 - 
@@ -16920,7 +16878,6 @@
 
 
 ## Module 20 - Cryptography
--
     -
         -
     -
@@ -16956,6 +16913,7 @@
 
 
 ### Cryptography Concepts
+- ![](img/20.01.01.jpg)
 -
     -
         -
@@ -16992,7 +16950,7 @@
 
 
 ### Government Access to Keys (GAK)
--
+-![](img/20.02.01.jpg)
     -
         -
     -
@@ -17010,43 +16968,21 @@
 
 
 ### Encryption Algorithms
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+- ![](img/20.03.01.jpg)
+    - Classical ciphers
+        - ![](img/20.03.02.jpg)
+    - Modern ciphers
+        -![](img/20.03.03.jpg)
 -
     -
         -
     -
         -
 
-
-### Ciphers
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
 
 
 ### Data Encryption Standard (DES)
--
+-![](img/20.04.01.jpg)
     -
         -
     -
