@@ -16990,25 +16990,15 @@
 
 
 ### Triple Data Encryption Standard (3DES)
-- ![](img/20.05.01.jpg)s
+- ![](img/20.05.01.jpg)
     -
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### Advanced Encryption Standard (AES)
--
+- ![](img/20.06.01.jpg)
     -
         -
     -
@@ -17026,8 +17016,8 @@
 
 
 ### RC4, RC5, and RC6 Algorithms
--
-    -
+- ![](img/20.07.01.jpg)
+    - ![](img/20.07.02.jpg)
         -
     -
         -
@@ -17044,97 +17034,47 @@
 
 
 ### Blowfish
--
-    -
+- ![](img/20.08.01.jpg)
+    - ![](img/20.08.02.jpg)s
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### Twofish
--
-    -
+- ![](img/20.09.01.jpg)
+    - ![](img/20.09.02.jpg)
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### Threefish
--
+- ![](img/20.10.01.jpg)
     -
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### Serpent
--
-    -
+- ![](img/20.11.01.jpg)
+    - ![](img/20.11.02.jpg)
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### TEA
--
+- ![](img/20.12.02.jpg)
     -
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### CAST-128
--
+- ![](img/20.13.01.jpg)
     -
         -
     -
@@ -17152,9 +17092,9 @@
 
 
 ### GOST Block Cipher
--
-    -
-        -
+- ![](img/20.14.01.jpg)
+    - ![](img/20.14.02.jpg)
+        - 
     -
         -
 -
@@ -17170,7 +17110,7 @@
 
 
 ### Camellia
--
+- ![](img/20.15.02.jpg)
     -
         -
     -
@@ -17188,7 +17128,7 @@
 
 
 ### DSA and Related Signature Schemes
--
+- ![](img/20.16.01.jpg)
     -
         -
     -
@@ -17206,13 +17146,13 @@
 
 
 ### Rivest Shamir Adleman (RSA)
--
-    -
-        -
-    -
-        -
--
-    -
+- ![](img/20.17.01.jpg)
+    - ![](img/20.17.02.jpg)
+    - ![](img/20.17.03.jpg)
+    - ![](img/20.17.04.jpg)
+    - ![](img/20.17.05.jpg)
+    - ![](img/20.17.06.jpg)
+    - ![](img/20.17.07.jpg)
         -
     -
         -
@@ -17224,115 +17164,32 @@
 
 
 ### Diffie–Hellman
--
-    -
+- ![](img/20.18.01.jpg)
+    - 
         -
     -
         -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+- ![](img/20.18.02.jpg)
+    - 
 
 
 ### YAK
--
-    -
+- ![](img/20.19.01.jpg)
+    - ![](img/20.19.02.jpg)
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - 
 
 
 ### Message Digest (One-way Hash) Functions
--
+- ![](img/20.20.01.jpg)
     -
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
-
-
-### CHAP
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
-
-
-### EAP
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
-
-
-### GOST – Hash Function
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
-
+        - 
 
 ### Message Digest Function: MD5 and MD6
--
+- ![](img/20.21.01.jpg)
     -
         -
     -
@@ -17350,8 +17207,8 @@
 
 
 ### Message Digest Function: Secure Hashing Algorithm (SHA)
--
-    -
+- ![](img/20.22.01.jpg)
+    - ![](img/20.22.02.jpg)
         -
     -
         -
@@ -17368,8 +17225,8 @@
 
 
 ### RIPEMD-160
--
-    -
+- ![](img/20.23.01.jpg)
+    - 
         -
     -
         -
@@ -17530,17 +17387,17 @@
 
 
 ### Public Key Infrastructure (PKI)
--
+- 
     -
         -
     -
         -
--
+- ![](img/20.43.01.jpg)
     -
         -
     -
         -
--
+- ![](img/20.43.02.jpg)
     -
         -
     -
@@ -17566,7 +17423,7 @@
 
 
 ### Signed Certificate (CA) vs. Self-Signed Certificate
--
+- ![](img/20.45.02.jpg)
     -
         -
     -
@@ -17638,7 +17495,7 @@
 
 
 ### Transport Layer Security (TLS)
--
+- ![](img/20.48.02.jpg)
     -
         -
     -
