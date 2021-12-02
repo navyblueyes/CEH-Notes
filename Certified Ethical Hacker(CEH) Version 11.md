@@ -1954,23 +1954,13 @@
 ## Module 04 - Enumeration
 - ![](img/04.00.00.jpg)
 
-### Module Objectives
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
 ### Enumeration Concepts
-- 
-    - 
-        - 
-    - 
+- ![](img/04.01.01.jpg)
+    - getting finder details
+        - network group names
+        - usernames
+        - network shares
+    - looking for vulnerabilites
         - 
 - 
     - 
@@ -1991,7 +1981,7 @@
         - 
 
 ### Techniques for Enumeration
-- 
+- ![](img/04.03.01.jpg)
     - 
         - 
     - 
@@ -2018,7 +2008,7 @@
 - 
     - 
         - 
-    - 
+    - ![](img/04.03.03.jpg)
         - 
 - 
     - 
@@ -2027,7 +2017,7 @@
         - 
 
 ### NetBIOS Enumeration Tools
-- 
+- ![](img/04.03.02.jpg)
     - 
         - 
     - 
@@ -2051,7 +2041,7 @@
         - 
 
 ### Enumerating Shared Resources Using Net View
-- 
+- ![](img/04.04.01.jpg)
     - 
         - 
     - 
@@ -2063,7 +2053,7 @@
         - 
 
 ### SNMP Enumeration
-- 
+- ![](img/04.05.01.jpg)
     - 
         - 
     - 
@@ -2388,7 +2378,7 @@
 
 ### IPv6 Enumeration
 - 
-    - 
+    - ![](img/04.06.01.jpg)
         - 
     - 
         - 
@@ -17513,7 +17503,7 @@
 
 
 ### Cryptography Toolkits
--
+- ![](img/20.49.02.jpg)
     -
         -
     -
@@ -17531,7 +17521,7 @@
 
 
 ### Pretty Good Privacy (PGP)
--
+- ![](img/20.50.01.jpg)
     -
         -
     -
@@ -17549,7 +17539,7 @@
 
 
 ### GNU Privacy Guard (GPG)
--
+- ![](img/20.51.01.jpg)
     -
         -
     -
@@ -17567,7 +17557,7 @@
 
 
 ### Web of Trust (WOT)
--
+- ![](img/20.52.01.jpg)
     -
         -
     -
@@ -17585,7 +17575,7 @@
 
 
 ### Email Encryption Tools
--
+- 
     -
         -
     -
@@ -17603,7 +17593,7 @@
 
 
 ### Disk Encryption
--
+- ![](img/20.53.01.jpg)
     -
         -
     -
@@ -17621,7 +17611,7 @@
 
 
 ### Disk Encryption Tools
--
+- ![](img/20.54.01.jpg)
     -
         -
     -
@@ -17639,7 +17629,7 @@
 
 
 ### Cryptanalysis
--
+- ![](img/20.55.01.jpg)
     -
         -
     -
@@ -17675,7 +17665,7 @@
 
 
 ### Code Breaking Methodologies
--
+- ![](img/20.56.01.jpg)
     -
         -
     -
@@ -17693,7 +17683,7 @@
 
 
 ### Cryptography Attacks
--
+- ![](img/20.57.01.jpg)
     -
         -
     -
@@ -17711,7 +17701,7 @@
 
 
 ### Brute-Force Attack
--
+- ![](img/20.58.01.jpg)
     -
         -
     -
@@ -17729,7 +17719,7 @@
 
 
 ### Birthday Attack
--
+- ![](img/20.59.01.jpg)
     -
         -
     -
@@ -17765,8 +17755,8 @@
 
 
 ### Meet-in-the-Middle Attack on Digital Signature Schemes
--
-    -
+- ![](img/20.60.01.jpg)
+    - @DES is vulnerable to MiTM
         -
     -
         -
@@ -17783,7 +17773,7 @@
 
 
 ### Side-Channel Attack
--
+- ![](img/20.31.01.jpg)
     -
         -
     -
@@ -17801,7 +17791,7 @@
 
 
 ### Hash Collision Attack
--
+- ![](img/20.61.01.jpg)
     -
         -
     -
@@ -17819,7 +17809,7 @@
 
 
 ### DUHK Attack
--
+- ![](img/20.62.01.jpg)
     -
         -
     -
@@ -17837,7 +17827,7 @@
 
 
 ### Rainbow Table Attack
--
+- ![](img/20.63.01.jpg)
     -
         -
     -
@@ -17873,7 +17863,7 @@
 
 
 ### Padding Oracle Attack
--
+- ![](img/20.64.01.jpg)
     -
         -
     -
@@ -17909,7 +17899,7 @@
 
 
 ### Cryptanalysis Tools
--
+- ![](img/20.65.01.jpg)
     -
         -
     -
@@ -17945,7 +17935,7 @@
 
 
 ### Countermeasures
--
+- 
     -
         -
     -
