@@ -2379,7 +2379,7 @@
 ### IPv6 Enumeration
 - 
     - ![](img/04.06.01.jpg)
-        - 
+        - ![](img/04.06.02.jpg)
     - 
         - 
 - 
@@ -2424,72 +2424,44 @@
     - 
         - 
 
-
+////////////////////////////////////////////////////////////////////////////////
 ## Module 05 - Vulnerability Analysis
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/05.00.jpg)
 
 ### Module Objectives
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/05.01.01.jpg)
+    - ![](img/05.01.02.jpg)
 
 ### Vulnerability Assessment Concepts
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/05.02.01.jpg)
+    - Two causes of vulnerabilities
+        - misconfiguration
+        - poor programming practices
 
 ### Vulnerability Research
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/05.03.01.jpg)
+    - analyze...
+        - protocols
+        - services
+        - configurations
+    - classified on...
+        - severity [low, med, high]
+        - exploit range [local, remote]
 
 ### Resources for Vulnerability Research
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/05.04.01.jpg)
     - 
         - 
     - 
         - 
 
 ### What is Vulnerability Assessment?
-- 
-    - 
-        - 
-    - 
+- ![](img/05.05.01.jpg)
+    - must examine...
+        - computers
+        - networks
+        - communication channels
+    - ![](img/05.05.02.jpg)
         - 
 - 
     - 
@@ -2498,10 +2470,10 @@
         - 
 
 ### Vulnerability Scoring Systems and Databases
-- 
-    - 
-        - 
-    - 
+- ![](img/05.06.01.jpg)
+    - ![](img/05.06.02.jpg)
+    - ![](img/05.06.03.jpg)
+    - ![](img/05.06.04.jpg)
         - 
 - 
     - 
@@ -2510,9 +2482,9 @@
         - 
 
 ### Common Vulnerability Scoring System (CVSS)
-- 
-    - 
-        - 
+- ![](img/05.07.01.jpg)
+    - ![](img/05.07.02.jpg)
+        - ![](img/05.07.03.jpg)
     - 
         - 
 - 
@@ -2522,8 +2494,8 @@
         - 
 
 ### Common Vulnerabilities and Exposures (CVE)
-- 
-    - 
+- ![](img/05.08.01.jpg)
+    - ![](img/05.08.02.jpg)
         - 
     - 
         - 
@@ -2534,8 +2506,8 @@
         - 
 
 ### National Vulnerability Database (NVD)
-- 
-    - 
+- ![](img/05.09.01.jpg)s
+    - ![](img/05.09.02.jpg)
         - 
     - 
         - 
@@ -2546,7 +2518,7 @@
         - 
 
 ### Common Weakness Enumeration (CWE)
-- 
+- ![](img/05.10.01.jpg)
     - 
         - 
     - 
@@ -2558,20 +2530,17 @@
         - 
 
 ### Vulnerability-Management Life Cycle
+- ![](img/05.11.01.jpg)
+    - ![](img/05.11.02.jpg)
+    - ![](img/05.11.03.jpg)
+    - ![](img/05.11.04.jpg)
 - 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
     - 
         - 
 
 ### Pre-Assessment Phase
-- 
-    - 
+- ![](img/05.12.01.jpg)
+    - ![](img/05.12.02.jpg)
         - 
     - 
         - 
@@ -2582,8 +2551,8 @@
         - 
 
 ### Vulnerability Assessment Phase
-- 
-    - 
+- ![](img/05.13.01.jpg)
+    - ![](img/05.13.02.jpg)
         - 
     - 
         - 
@@ -2594,19 +2563,17 @@
         - 
 
 ### Post Assessment Phase
+- ![](img/05.14.01.jpg)
+    - ![](img/05.14.02.jpg)
+    - ![](img/05.14.03.jpg)
+    - ![](img/05.14.04.jpg)
+    - ![](img/05.14.05.jpg)
 - 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
     - 
         - 
 
 ### Vulnerability Classification and Assessment Types
-- 
+- ![](img/05.15.01.jpg)
     - 
         - 
     - 
@@ -2618,44 +2585,32 @@
         - 
 
 ### Vulnerability Classification
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
+- ![](img/05.16.01.jpg)
+    - ![](img/05.16.02.jpg)
+    - ![](img/05.16.03.jpg)
+    - ![](img/05.16.04.jpg)
+    - ![](img/05.16.05.jpg)
+    - ![](img/05.16.06.jpg)
+    - ![](img/05.16.07.jpg)
+    - ![](img/05.16.08.jpg)
 
 ### Types of Vulnerability Assessment
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
+- ![](img/05.17.01.jpg)
+    - ![](img/05.17.02.jpg)
         - 
     - 
         - 
 
 ### Vulnerability Assessment Solutions and Tools
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/05.17.03.jpg)
     - 
         - 
     - 
         - 
 
 ### Comparing Approaches to Vulnerability Assessment
-- 
-    - 
+- ![](img/05.18.01.jpg)
+    - ![](img/05.18.02.jpg)
         - 
     - 
         - 
