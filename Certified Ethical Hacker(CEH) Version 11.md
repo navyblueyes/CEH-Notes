@@ -2846,7 +2846,7 @@
 ### NTLM Authentication Process
 - ![](img/06.04.02.jpg)
     - ![](img/06.04.01.jpg)
-        - 
+        - ![](img/06.04.03.jpg)
     - 
         - 
 - 
@@ -2856,7 +2856,7 @@
         - 
 
 ### Kerberos Authentication
-- 
+- ![](img/06.05.01.jpg)
     - 
         - 
     - 
@@ -2868,8 +2868,8 @@
         - 
 
 ### Password Cracking
-- 
-    - 
+- ![](img/06.06.01.jpg)
+    - ![](img/06.06.02.jpg)
         - 
     - 
         - 
@@ -2880,56 +2880,45 @@
         - 
 
 ### Types of Password Attacks
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/06.07.02.jpg)
     - 
         - 
     - 
         - 
 
 ### Non-Electronic Attacks
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/06.08.01.jpg)
     - 
         - 
     - 
         - 
 
 ### Active Online Attacks
+- ![](img/06.09.02.jpg)
+    - ![](img/06.09.06.jpg)
+    - ![](img/06.09.03.jpg)
+- ![](img/06.09.01.jpg)
+- ![](img/06.09.04.jpg)
+    - Doman controller gets compromised
+- ![](img/06.09.05.jpg)
+    - ![](img/06.09.08.jpg)
+- ![](img/06.09.09.jpg)
+- ![](img/06.09.07.jpg)
+- ![](img/06.09.10.jpg)
+    - UTILIZED FOR KERBEROS
 - 
     - 
-        - 
-    - 
-        - 
 - 
     - 
-        - 
+- 
     - 
-        - 
+- 
+    - 
 
-### Other Active Online Attacks
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Passive Online Attacks
-- 
-    - 
+- ![](img/06.10.01.jpg)
+    - ![](img/06.10.02.jpg)
         - 
     - 
         - 
@@ -2940,8 +2929,8 @@
         - 
 
 ### Offline Attacks
-- 
-    - 
+- ![](img/06.11.01.jpg)
+    - ![](img/06.11.02.jpg)
         - 
     - 
         - 
@@ -2964,7 +2953,7 @@
         - 
 
 ### Tools to Extract the Password Hashes
-- 
+- ![](img/06.12.01.jpg)
     - 
         - 
     - 
@@ -2976,8 +2965,8 @@
         - 
 
 ### Password-Cracking Tools
-- 
-    - 
+- ![](img/06.13.01.jpg)
+    - ![](img/06.13.02.jpg)
         - 
     - 
         - 
@@ -2988,7 +2977,7 @@
         - 
 
 ### Password Salting
-- 
+- ![](img/06.14.01.jpg)
     - 
         - 
     - 
@@ -3000,9 +2989,9 @@
         - 
 
 ### How to Defend against Password Cracking
-- 
-    - 
-        - 
+- ![](img/06.14.02.jpg)
+    - ![](img/06.14.03.jpg)
+    - ![](img/06.14.04.jpg)
     - 
         - 
 - 
@@ -3012,8 +3001,8 @@
         - 
 
 ### How to Defend against LLMNR/NBT-NS Poisoning
-- 
-    - 
+- ![](img/06.14.05.jpg)
+    - not on exam
         - 
     - 
         - 
@@ -3036,7 +3025,7 @@
         - 
 
 ### Vulnerability Exploitation
-- 
+- ![](img/06.15.01.jpg)
     - 
         - 
     - 
@@ -3060,7 +3049,7 @@
         - 
 
 ### Buffer Overflow
-- 
+- ![](img/06.16.01.jpg)
     - 
         - 
     - 
