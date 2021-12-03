@@ -3492,7 +3492,7 @@
         - 
 
 ### Rootkits
-- 
+- ![](img/06.33.01.jpg)
     - 
         - 
     - 
@@ -3528,7 +3528,7 @@
         - 
 
 ### Popular Rootkits
-- 
+- ![](img/06.34.01.jpg)
     - 
         - 
     - 
@@ -3576,7 +3576,7 @@
         - 
 
 ### Anti-Rootkits
-- 
+- NOT ON EXAM!
     - 
         - 
     - 
@@ -3648,7 +3648,7 @@
         - 
 
 ### What is Steganography?
-- 
+- ![](img/06.40.01.jpg)
     - 
         - 
     - 
@@ -3684,91 +3684,7 @@
         - 
 
 ### Whitespace Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Image Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Document Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Video Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Audio Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Folder Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Spam/Email Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Steganography Tools for Mobile Phones
-- 
+- ![](img/06.41.01.jpg)
     - 
         - 
     - 
@@ -3791,21 +3707,9 @@
     - 
         - 
 
-### Steganalysis Methods/Attacks on Steganography
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
 ### Detecting Steganography (Text, Image, Audio, and Video Files)
-- 
-    - 
+- ![](img/06.43.01.jpg)
+    - watch the hases
         - 
     - 
         - 
@@ -3828,7 +3732,7 @@
         - 
 
 ### Clearing Logs
-- 
+- ![](img/06.44.01.jpg)
     - 
         - 
     - 
@@ -3852,8 +3756,8 @@
         - 
 
 ### Disabling Auditing: Auditpol
-- 
-    - 
+- ![](img/06.48.01.jpg)
+    - on the exam
         - 
     - 
         - 
@@ -3864,7 +3768,7 @@
         - 
 
 ### Clearing Logs
-- 
+- ![](img/06.48.02.jpg)
     - 
         - 
     - 
@@ -3876,7 +3780,7 @@
         - 
 
 ### Manually Clearing Event Logs
-- 
+- ![](img/06.49.01.jpg)
     - 
         - 
     - 
@@ -3888,7 +3792,7 @@
         - 
 
 ### Ways to Clear Online Tracks
-- 
+- ![](img/05.25.01.jpg)
     - 
         - 
     - 
@@ -3900,7 +3804,7 @@
         - 
 
 ### Covering BASH Shell Tracks
-- 
+- ![](img/05.26.01.jpg)
     - 
         - 
     - 
@@ -3913,7 +3817,7 @@
 
 ### Covering Tracks on a Network
 - 
-    - 
+    - ![](img/06.50.01.jpg)
         - 
     - 
         - 
