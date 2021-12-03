@@ -3132,7 +3132,7 @@
         - 
 
 ### Privilege Escalation
-- 
+- ![](img/06.20.01.jpg)
     - 
         - 
     - 
@@ -3145,7 +3145,7 @@
 
 ### Privilege Escalation Using DLL Hijacking
 - ![](img/06.19.01.jpg)
-    - 
+    - ![](img/06.19.02.jpg)
         - 
     - 
         - 
@@ -3156,8 +3156,8 @@
         - 
 
 ### Privilege Escalation by Exploiting Vulnerabilities
-- 
-    - 
+- ![](img/06.21.01.jpg)
+    - not on exam
         - 
     - 
         - 
@@ -3348,8 +3348,8 @@
         - 
 
 ### Keylogger
-- 
-    - 
+- ![](img/06.27.01.jpg)
+    - ![](img/06.27.02.jpg)
         - 
     - 
         - 
@@ -3420,7 +3420,7 @@
         - 
 
 ### Spyware Tools
-- 
+- Non of them are on exam
     - 
         - 
     - 
@@ -3432,8 +3432,8 @@
         - 
 
 ### How to Defend against Keyloggers
-- 
-    - 
+- ![](img/06.30.02.jpg)
+    - ![](img/06.30.03.jpg)
         - 
     - 
         - 
@@ -3456,7 +3456,7 @@
         - 
 
 ### How to Defend against Spyware
-- 
+- ![](img/06.32.03.jpg)
     - 
         - 
     - 
