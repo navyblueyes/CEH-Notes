@@ -3061,12 +3061,11 @@
         - 
 
 ### Types of Buffer Overflow
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/06.17.01.jpg)
+    - NOOP -> no operation
+    - NOP -> 0x90 is inserted
+        - ![](img/06.17.02.jpg)
+- MUST KNOW... EIP
     - 
         - 
     - 
@@ -3109,8 +3108,8 @@
         - 
 
 ### Defending against Buffer Overflows
-- 
-    - 
+- ![](img/06.18.01.jpg)
+    - ![](img/06.18.02..jpg)
         - 
     - 
         - 
@@ -3145,7 +3144,7 @@
         - 
 
 ### Privilege Escalation Using DLL Hijacking
-- 
+- ![](img/06.19.01.jpg)
     - 
         - 
     - 
