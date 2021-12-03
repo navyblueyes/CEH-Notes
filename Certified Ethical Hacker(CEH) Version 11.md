@@ -2424,9 +2424,10 @@
     - 
         - 
 
-////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
 ## Module 05 - Vulnerability Analysis
 - ![](img/05.00.jpg)
+- ![](img/05.00.01.jpg)
 
 ### Module Objectives
 - ![](img/05.01.01.jpg)
@@ -2437,6 +2438,7 @@
     - Two causes of vulnerabilities
         - misconfiguration
         - poor programming practices
+    - ![](img/05.02.02.jpg)s
 
 ### Vulnerability Research
 - ![](img/05.03.01.jpg)
@@ -2496,8 +2498,8 @@
 ### Common Vulnerabilities and Exposures (CVE)
 - ![](img/05.08.01.jpg)
     - ![](img/05.08.02.jpg)
-        - 
-    - 
+        - great for triage
+        - ![](img/05.08.03.jpg)
         - 
 - 
     - 
@@ -2536,7 +2538,7 @@
     - ![](img/05.11.04.jpg)
 - 
     - 
-        - 
+        - ![](img/05.11.05.jpg)
 
 ### Pre-Assessment Phase
 - ![](img/05.12.01.jpg)
@@ -2621,7 +2623,7 @@
         - 
 
 ### Characteristics of a Good Vulnerability Assessment Solution
-- 
+- ![](img/05.19.01.jpg)
     - 
         - 
     - 
@@ -2633,7 +2635,7 @@
         - 
 
 ### Working of Vulnerability Scanning Solutions
-- 
+- ![](img/05.20.01.jpg)
     - 
         - 
     - 
@@ -2645,7 +2647,7 @@
         - 
 
 ### Types of Vulnerability Assessment Tools
-- 
+- ![](img/05.21.01.jpg)
     - 
         - 
     - 
@@ -2657,7 +2659,7 @@
         - 
 
 ### Choosing a Vulnerability Assessment Tool
-- 
+- ![](img/05.22.01.jpg)
     - 
         - 
     - 
@@ -2693,9 +2695,9 @@
         - 
 
 ### Vulnerability Assessment Tools
-- 
-    - 
-        - 
+- ![](img/05.23.01.jpg)
+    - ![](img/05.23.02.jpg)
+        - ![](img/05.23.04.jpg)
     - 
         - 
 - 
@@ -2717,10 +2719,10 @@
         - 
 
 ### Vulnerability Assessment Reports
-- 
-    - 
-        - 
-    - 
+- ![](img/05.24.04.jpg)
+    - goes to CISO 
+        - CIO
+        - CTO
         - 
 - 
     - 
@@ -2752,21 +2754,12 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 06 - System Hacking
 - 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Module Objectives
-- 
+- ![](img/06.00.jpg)
     - 
         - 
     - 
@@ -2790,7 +2783,7 @@
         - 
 
 ### CEH Hacking Methodology (CHM)
-- 
+- ![](img/06.01.01.jpg)
     - 
         - 
     - 
@@ -2826,7 +2819,7 @@
         - 
 
 ### Microsoft Authentication
-- 
+- ![](img/06.02.01.jpg)
     - 
         - 
     - 
@@ -2838,9 +2831,10 @@
         - 
 
 ### How Hash Passwords Are Stored in Windows SAM?
-- 
-    - 
-        - 
+- ![](img/06.03.01.jpg)
+    - C:\Windows\System32\config\SAM
+    - ![](img/06.03.02.jpg)
+        - LH hash is limited to 14 characters
     - 
         - 
 - 
@@ -2850,8 +2844,8 @@
         - 
 
 ### NTLM Authentication Process
-- 
-    - 
+- ![](img/06.04.02.jpg)
+    - ![](img/06.04.01.jpg)
         - 
     - 
         - 
@@ -4013,7 +4007,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 07 - Malware Threats
 - 
     - 
@@ -5745,7 +5739,7 @@
         - 
     
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 08 - Sniffing
 -
     - 
