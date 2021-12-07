@@ -11742,30 +11742,22 @@
 
 ### Wi-Fi Authentication Process Using a Centralized Authentication Server
 - ![](img/16.08.01.jpg)
+    - ![](img/16.08.02.jpg)
     - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
 
 ### Types of Wireless Antennas
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/16.09.01.jpg)
+    - ![](img/16.09.02.jpg)
+    - ![](img/16.09.03.jpg)
+        - ![](img/16.09.04.jpg)
+    - ![](img/16.09.05.jpg)
+    - ![](img/06.09.11.jpg)
+        - ![](img/16.09.06.jpg)
+    - ![](img/16.09.07.jpg)
+    - ![](img/16.09.08.jpg)
 
 ### Wireless Encryption
--
+- ![](img/16.10.01.jpg)
     - 
         - 
     - 
