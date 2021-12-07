@@ -4,6 +4,7 @@
 
 ## Module 00 - Instructor
 - ![](img/00.01.jpg)
+- ![](img/00.02.jpg)
 
 ## Module 01 - Introduction to Ethical Hacking
 
@@ -3828,7 +3829,7 @@
         - 
 
 ### Covering Tracks on an OS
-- 
+- ![](img/06.51.01.jpg)
     - 
         - 
     - 
@@ -3840,7 +3841,7 @@
         - 
 
 ### Delete Files using Cipher.exe
-- 
+- NOT on exam
     - 
         - 
     - 
@@ -3864,7 +3865,7 @@
         - 
 
 ### Track-Covering Tools
-- 
+- NOT on exam
     - 
         - 
     - 
@@ -3876,7 +3877,7 @@
         - 
 
 ### Defending against Covering Tracks
-- 
+- ![](img/06.52.01.jpg)
     - 
         - 
     - 
@@ -3888,7 +3889,7 @@
         - 
 
 ### Module Summary
-- 
+- ![](img/06.53.01.jpg)
     - 
         - 
     - 
@@ -3904,16 +3905,9 @@
 - 
     - 
         - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Module Objectives
-- 
+- ![](img/07.00.jpg)
     - 
         - 
     - 
@@ -3937,19 +3931,14 @@
         - 
 
 ### Introduction to Malware
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/07.01.jpg)
     - 
         - 
     - 
         - 
 
 ### Different Ways for Malware to Enter a System
-- 
+- ![](img/07.02.jpg)
     - 
         - 
     - 
@@ -3997,7 +3986,7 @@
         - 
 
 ### What are Advanced Persistent Threats?
-- 
+- ![](img/07.03.01.jpg)
     - 
         - 
     - 
@@ -4021,43 +4010,23 @@
         - 
 
 ### Advanced Persistent Threat Lifecycle
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
-    - 
-        - 
-
-### Trojan Concepts
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/07.04.01.jpg)
     - 
         - 
     - 
         - 
 
 ### What is a Trojan?
-- 
-    - 
-        - 
-    - 
-        - 
-- 
-    - 
-        - 
+- ![](img/07.05.01.jpg)
+    - malicious code INSIDE harmless data (word doc's)
+        - activated by PREDEFINED ACTIONS
+        - IoC -> abnormal system/network activities
+        - continues communication VIA ENCRYPTED CHANNEL
     - 
         - 
 
 ### How Hackers Use Trojans
-- 
+- ![](img/07.06.01.jpg)
     - 
         - 
     - 
@@ -4297,7 +4266,7 @@
         - 
 
 ### Creating a Trojan
-- 
+- ![](img/07.07.01.jpg)
     - 
         - 
     - 
@@ -4321,7 +4290,7 @@
         - 
 
 ### Employing a Wrapper
-- 
+- ![](img/07.08.01.jpg)
     - 
         - 
     - 
@@ -4417,19 +4386,14 @@
         - 
 
 ### Exploit Kits
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/07.09.01.jpg)
     - 
         - 
     - 
         - 
 
 ### Virus and Worm Concepts
-- 
+- ![](img/07.10.01.jpg)
     - 
         - 
     - 
@@ -4441,7 +4405,7 @@
         - 
 
 ### Introduction to Viruses
-- 
+- ![](img/07.11.01.jpg)
     - 
         - 
     - 
@@ -4777,7 +4741,7 @@
         - 
 
 ### Ransomware
-- 
+- ![](img/07.12.01.jpg)
     - 
         - 
     - 
@@ -4801,8 +4765,8 @@
         - 
 
 ### Creating a Virus
-- 
-    - 
+- ![](img/07.13.01.jpg)
+    - ![](img/07.13.02.jpg)
         - 
     - 
         - 
@@ -4813,8 +4777,8 @@
         - 
 
 ### Propagating and Deploying a Virus
-- 
-    - 
+- ![](img/07.14.01.jpg)
+    - ![](img/07.15.01.jpg)
         - 
     - 
         - 
@@ -4849,7 +4813,7 @@
         - 
 
 ### Computer Worms
-- 
+- ![](img/07.16.01.jpg)
     - 
         - 
     - 
@@ -4861,7 +4825,7 @@
         - 
 
 ### Worm Makers
-- 
+- ![](img/07.17.01.jpg)
     - 
         - 
     - 
@@ -4885,7 +4849,7 @@
         - 
 
 ### What is Fileless Malware?
-- 
+- ![](img/07.18.01.jpg)
     - 
         - 
     - 
@@ -4897,12 +4861,7 @@
         - 
 
 ### Taxonomy of Fileless Malware Threats
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/07.19.01.jpg)
     - 
         - 
     - 
@@ -4914,16 +4873,11 @@
         - 
     - 
         - 
-- 
-    - 
-        - 
-    - 
-        - 
 
 ### Launching Fileless Malware through Document Exploits
-- 
-    - 
-        - 
+- ![](img/07.20.01.jpg)
+    - ![](img/07.20.02.jpg)
+    - ![](img/07.20.03.jpg)
     - 
         - 
 - 
@@ -5005,7 +4959,7 @@
         - 
 
 ### Fileless Malware Obfuscation Techniques to Bypass Antivirus
-- 
+- ![](img/07.21.03.jpg)
     - 
         - 
     - 
@@ -5029,8 +4983,8 @@
         - 
 
 ### What is Sheep Dip Computer?
-- 
-    - 
+- ![](img/07.22.03.jpg)
+    - totally clean... load a file in it to discover a problem
         - 
     - 
         - 
@@ -5065,7 +5019,7 @@
         - 
 
 ### Malware Analysis Procedure
-- 
+- ![](img/07.23.01.jpg)
     - 
         - 
     - 
@@ -5077,12 +5031,7 @@
         - 
 
 ### Preparing Testbed
-- 
-    - 
-        - 
-    - 
-        - 
-- 
+- ![](img/07.24.01.jpg)
     - 
         - 
     - 
@@ -5567,7 +5516,7 @@
     
 
 ### Anti-Trojan Software
--
+- ![](img/07.25.01.jpg)
     - 
         - 
     - 
@@ -5580,7 +5529,7 @@
     
 
 ### Antivirus Software
--
+- ![](img/07.26.01.jpg)
     - 
         - 
     - 
@@ -5593,7 +5542,7 @@
     
 
 ### Fileless Malware Detection Tools
--
+- ![](img/07.27.01.jpg)
     - 
         - 
     - 
@@ -6516,7 +6465,7 @@
         - 
     
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 09 - Social Engineering
 -
     - 
@@ -7125,7 +7074,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 10 - Denial-of-Service
 -
     - 
@@ -7539,7 +7488,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 11 - Session Hijacking
 -
     - 
@@ -7883,7 +7832,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 12 - Evading IDS, Firewalls, and Honeypots
 -
     - 
@@ -8738,7 +8687,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 13 - Hacking Web Servers
 - 
     - 
@@ -9531,7 +9480,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 14 - Hacking Web Applications
 - 
     - 
@@ -10672,7 +10621,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 15 - SQL Injection
 -
     - 
@@ -11741,7 +11690,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 16 - Hacking Wireless Networks
 -
     - 
@@ -13062,7 +13011,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 17 - Hacking Mobile Platforms
 -
     - 
@@ -14011,7 +13960,7 @@
     - 
         - 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 18 - IoT and OT Hacking
 -
     - 
@@ -15104,47 +15053,35 @@
         -
 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 19 - Cloud Computing
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+- ![](img/19.00.jpg)
 
 
 ### Module Objectives
+- 
+    -
+        -
+    -
+        -
+- ![](img/19.01.01.jpg)
+    -
+        - 
+    - 
+        -
 -
     -
         -
     -
-        -
--
-    -
-        -
-    -
-        -
--
-    -
-        -
-    -
-        -
+        - https://buckets.grayhatwarfare.com/
 
 
 ### Cloud Computing Concepts
 -
     -
-        -
+        - CapEX become OpEX
+            - no need to invest into infrastructure
+            - just have it outsourced to AWS, Azure, GCP
     -
         -
 -
@@ -15196,7 +15133,7 @@
 
 
 ### Separation of Responsibilities in Cloud
--
+- ![](img/19.04.01.jpg)
     -
         -
     -
@@ -15304,7 +15241,7 @@
 
 
 ### Cloud Service Providers
--
+- ![](img/19.10.01.jpg)
     -
         -
     -
@@ -15322,14 +15259,14 @@
 
 
 ### Container Technology
--
+- 
     -
         -
     -
         -
 -
     -
-        -
+        - You can run Docker (Container OS) on Windows... but it takes between 2GB-4GB of your RAM.... so not exactly fun to run everyday
     -
         -
 -
@@ -15394,7 +15331,7 @@
 
 
 ### Microservices Vs. Docker
--
+- ![](img/19.12.01.jpg)
     -
         -
     -
@@ -15448,7 +15385,7 @@
 
 
 ### What is Kubernetes?
--
+- ![](img/19.14.0.jpg)
     -
         -
     -
@@ -15466,7 +15403,7 @@
 
 
 ### Kubernetes Vs. Docker
--
+- ![](img/19.15.0.jpg)
     -
         -
     -
@@ -15502,7 +15439,7 @@
 
 
 ### Container Management Platforms
--
+- ![](img/19.17.0.jpg)
     -
         -
     -
@@ -15556,7 +15493,7 @@
 
 
 ### What is Serverless Computing?
--
+- ![](img/19.20.0.jpg)
     -
         -
     -
@@ -15628,7 +15565,7 @@
 
 
 ### OWASP Top 10 Cloud Security Risks
--
+- ![](img/19.22.0.jpg)
     -
         -
     -
@@ -15898,7 +15835,7 @@
 
 
 ### What is Cloud Hacking?
--
+- ![](img/19.28.0.jpg)
     -
         -
     -
@@ -16438,7 +16375,7 @@
 
 
 ### NIST Recommendations for Cloud Security
--
+- ![](img/19.30.0.jpg)
     -
         -
     -
@@ -16564,7 +16501,7 @@
 
 
 ### Zero Trust Networks
--
+- ![](img/19.38.0.jpg)
     -
         -
     -
@@ -16618,7 +16555,7 @@
 
 
 ### Cloud Security Tools
--
+- ![](img/19.45.0.jpg)
     -
         -
     -
@@ -16707,7 +16644,7 @@
         -
 
 
-
+/////////////////////////////////////////////////////////////////////////////
 ## Module 20 - Cryptography
     -
         -
