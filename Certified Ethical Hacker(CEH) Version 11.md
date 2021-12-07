@@ -11769,19 +11769,12 @@
         - 
 
 ### Types of Wireless Encryption
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/16.11.01.jpg)
+    - ![](img/16.11.02.jpg)
+    - ![](img/16.11.03.jpg)
 
 ### Wired Equivalent Privacy (WEP) Encryption
--
+- ![](img/16.12.01.jpg)
     - 
         - 
     - 
