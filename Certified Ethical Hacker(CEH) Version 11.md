@@ -11692,20 +11692,11 @@
 
 /////////////////////////////////////////////////////////////////////////////
 ## Module 16 - Hacking Wireless Networks
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/16.00.jpg)
 
 ### Module Objectives
--
-    - 
+- ![](img/16.01.01.jpg)
+    - ![](img/16.01.02.jpg)
         - 
     - 
         - 
@@ -13962,31 +13953,13 @@
 
 /////////////////////////////////////////////////////////////////////////////
 ## Module 18 - IoT and OT Hacking
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- 
 
 ### Module Objectives
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/18.01.01.jpg)
 
 ### IoT Hacking
--
+- ![](img/18.02.01.jpg)
     - 
         - 
     - 
@@ -13998,7 +13971,7 @@
         - 
 
 ### IoT Concepts
--
+- ![](img/18.03.01.jpg)
     - 
         - 
     - 
@@ -14034,7 +14007,7 @@
         - 
 
 ### IoT Architecture
--
+- ![](img/18.04.01.jpg)
     - 
         - 
     - 
@@ -14046,7 +14019,7 @@
         - 
 
 ### IoT Application Areas and Devices
--
+- ![](img/18.05.01.jpg)
     - 
         - 
     - 
@@ -14058,7 +14031,7 @@
         - 
 
 ### IoT Technologies and Protocols
--
+- ![](img/18.06.01.jpg)
     - 
         - 
     - 
@@ -14070,7 +14043,7 @@
         - 
 
 ### IoT Communication Models
--
+- ![](img/18.07.01.jpg)
     - 
         - 
     - 
@@ -14082,7 +14055,7 @@
         - 
 
 ### Challenges of IoT
--
+- ![](img/18.08.01.jpg)
     - 
         - 
     - 
@@ -14142,7 +14115,7 @@
         - 
 
 ### IoT Vulnerabilities
--
+- ![](img/18.09.01.jpg)
     - 
         - 
     - 
@@ -14166,19 +14139,14 @@
         - 
 
 ### Hacking IoT Devices: General Scenario
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
+- ![](img/18.10.01.jpg)
+    - introduce fake devices
         - 
     - 
         - 
 
 ### DDoS Attack
--
+- ![](img/18.11.01.jpg)
     - 
         - 
     - 
