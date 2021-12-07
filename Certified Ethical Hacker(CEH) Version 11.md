@@ -11697,48 +11697,30 @@
 ### Module Objectives
 - ![](img/16.01.01.jpg)
     - ![](img/16.01.02.jpg)
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
 
 ### Wireless Concepts
--
-    - 
-        - 
-    - 
-        - 
--
+- ![](img/16.02.01.jpg)
     - 
         - 
     - 
         - 
 
 ### Wireless Terminology
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
+- ![](img/16.03.01.jpg)
+    - ![](img/16.03.02.jpg)
+    - ![](img/16.03.03.jpg)
+    - ![](img/16.03.04.jpg)
         - 
 
 ### Wireless Networks
+- ![](img/16.04.01.jpg)
+    - ![](img/16.04.02.jpg)
+- Types of Wireless Network
+    - ![](img/16.04.03.jpg)
+    - ![](img/16.04.04.jpg)
+    - ![](img/16.04.05.jpg)
+    - ![](img/16.04.06.jpg)
 -
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
     - 
         - 
 
