@@ -11720,48 +11720,28 @@
     - ![](img/16.04.04.jpg)
     - ![](img/16.04.05.jpg)
     - ![](img/16.04.06.jpg)
--
-    - 
-        - 
 
 ### Wireless Standards
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/16.05.01.jpg)
+    - ![](img/16.05.02.jpg)
+    - ![](img/16.05.03.jpg)
+    - ![](img/16.05.04.jpg)
+        - ![](img/16.05.05.jpg)
+        - ![](img/16.05.06.jpg)
+        - ![](img/16.05.07.jpg)
 
 ### Service Set Identifier (SSID)
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/16.06.01.jpg)
+    - ![](img/16.06.02.jpg)
 
 ### Wi-Fi Authentication Modes
--
-    - 
-        - 
-    - 
-        - 
--
-    - 
-        - 
-    - 
-        - 
+- ![](img/16.07.01.jpg)
+    - ![](img/16.07.02.jpg)
+    - ![](img/16.07.03.jpg)
+        - ![](img/16.07.04.jpg)
 
 ### Wi-Fi Authentication Process Using a Centralized Authentication Server
--
+- ![](img/16.08.01.jpg)
     - 
         - 
     - 
